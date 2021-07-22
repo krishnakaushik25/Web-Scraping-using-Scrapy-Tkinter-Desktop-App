@@ -1,0 +1,4284 @@
+[{
+        "id": "44217642",
+        "image_urls": ["https://photos.zillowstatic.com/fp/a4e4fe3b7c6831eb540062f4527ebb97-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/8600-SW-97th-Rd-Miami-FL-33173/44217642_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$482,300",
+        "address": "8600 SW 97th Rd, Miami, FL 33173",
+        "beds": 3,
+        "baths": 2.0,
+        "area_sqft": 1308,
+        "latitude": 25.68933,
+        "longitude": -80.351335,
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/a4e4fe3b7c6831eb540062f4527ebb97-p_e.jpg",
+            "path": "full/44217642.jpg",
+            "checksum": "c427a70b7ac5be5400f2816297dbd802"
+        }]
+    },
+    {
+        "id": "44307292",
+        "image_urls": ["https://photos.zillowstatic.com/fp/a9c7846f67c67549eb8cb1c205bdb7af-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/11783-SW-99th-Ln-Miami-FL-33186/44307292_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$401,900",
+        "address": "11783 SW 99th Ln, Miami, FL 33186",
+        "beds": 3,
+        "baths": 2.0,
+        "area_sqft": 1570,
+        "latitude": 25.675802,
+        "longitude": -80.385742,
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/a9c7846f67c67549eb8cb1c205bdb7af-p_e.jpg",
+            "path": "full/44307292.jpg",
+            "checksum": "b8f227c0f7cf07d62a283f7db3fde493"
+        }]
+    },
+    {
+        "id": "2098063948",
+        "image_urls": ["https://photos.zillowstatic.com/fp/3cfc55458a5229d821727f53cd1893f5-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/770-Claughton-Island-Dr-Miami-FL-33131/2098063948_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "Condo for sale",
+        "price": "$2,200",
+        "address": "770 Claughton Island Dr, Miami, FL 33131",
+        "beds": 1,
+        "baths": 1.0,
+        "latitude": 25.76525,
+        "longitude": -80.18459,
+        "broker_name": "Avanti Way Realty LLC",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/3cfc55458a5229d821727f53cd1893f5-p_e.jpg",
+            "path": "full/2098063948.jpg",
+            "checksum": "78a001d9a4c5a594c7c6f46c1be92814"
+        }]
+    },
+    {
+        "id": "44213060",
+        "image_urls": ["https://photos.zillowstatic.com/fp/ef0606ea2a6857b47e245eaa6f4fa549-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/10730-SW-62nd-Ter-Miami-FL-33173/44213060_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$524,300",
+        "address": "10730 SW 62nd Ter, Miami, FL 33173",
+        "beds": 3,
+        "baths": 2.0,
+        "area_sqft": 1408,
+        "latitude": 25.709518,
+        "longitude": -80.367393,
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/ef0606ea2a6857b47e245eaa6f4fa549-p_e.jpg",
+            "path": "full/44213060.jpg",
+            "checksum": "9370a673dfaeb5cb350e374c52443b36"
+        }]
+    },
+    {
+        "id": "44205460",
+        "image_urls": ["https://photos.zillowstatic.com/fp/d6d1fe85afa8934e84c54c203f572fe6-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/8630-SW-42nd-Ter-Miami-FL-33155/44205460_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$560,000",
+        "address": "8630 SW 42nd Ter, Miami, FL 33155",
+        "beds": 4,
+        "baths": 3.0,
+        "area_sqft": 2202,
+        "latitude": 25.729649,
+        "longitude": -80.335125,
+        "broker_name": "Onepath Realty LLC",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/d6d1fe85afa8934e84c54c203f572fe6-p_e.jpg",
+            "path": "full/44205460.jpg",
+            "checksum": "c965cd83a6a2229a5b53ee624ad94b5a"
+        }]
+    },
+    {
+        "id": "44328454",
+        "image_urls": ["https://photos.zillowstatic.com/fp/9d9f03ac3e5f28cd7d89bab093e1f809-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/15435-SW-146th-Ter-Miami-FL-33196/44328454_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$600,000",
+        "address": "15435 SW 146th Ter, Miami, FL 33196",
+        "beds": 4,
+        "baths": 3.0,
+        "area_sqft": 2864,
+        "latitude": 25.630937,
+        "longitude": -80.443775,
+        "broker_name": "Onepath Realty LLC",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/9d9f03ac3e5f28cd7d89bab093e1f809-p_e.jpg",
+            "path": "full/44328454.jpg",
+            "checksum": "348a2f80b5601e109bf1134d44fb355e"
+        }]
+    },
+    {
+        "id": "43806874",
+        "image_urls": ["https://photos.zillowstatic.com/fp/4216db9fec4c8b346595836d7aa56410-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/60-NW-79th-St-APT-5-Miami-FL-33150/43806874_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "Condo for sale",
+        "price": "$65,000",
+        "address": "60 NW 79th St APT 5, Miami, FL 33150",
+        "beds": 1,
+        "baths": 1.0,
+        "area_sqft": 462,
+        "latitude": 25.847267,
+        "longitude": -80.197998,
+        "broker_name": "Binter Real Estate",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/4216db9fec4c8b346595836d7aa56410-p_e.jpg",
+            "path": "full/43806874.jpg",
+            "checksum": "4c29cbf32c1d43325b2a545dee3f8fda"
+        }]
+    },
+    {
+        "id": "44332825",
+        "image_urls": ["https://photos.zillowstatic.com/fp/7f5ea6b462898aaf0af7ca8f02572e00-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/14145-SW-121st-Pl-3-Miami-FL-33186/44332825_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "Townhouse for sale",
+        "price": "$300,000",
+        "address": "14145 SW 121st Pl #3, Miami, FL 33186",
+        "beds": 3,
+        "baths": 3.0,
+        "area_sqft": 1300,
+        "latitude": 25.636286,
+        "longitude": -80.390206,
+        "broker_name": "RE/MAX Advance Realty II",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/7f5ea6b462898aaf0af7ca8f02572e00-p_e.jpg",
+            "path": "full/44332825.jpg",
+            "checksum": "43cf172e335f0b4a6cfa5865db73104f"
+        }]
+    },
+    {
+        "id": "44283910",
+        "image_urls": ["https://photos.zillowstatic.com/fp/cd4085d478990b437b8406710bcbbaf7-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/8340-SW-119th-St-Miami-FL-33156/44283910_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$699,999",
+        "address": "8340 SW 119th St, Miami, FL 33156",
+        "beds": 4,
+        "baths": 3.0,
+        "area_sqft": 1630,
+        "latitude": 25.659376,
+        "longitude": -80.329483,
+        "broker_name": "Beycome of Florida LLC",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/cd4085d478990b437b8406710bcbbaf7-p_e.jpg",
+            "path": "full/44283910.jpg",
+            "checksum": "979908ea03c810214e110a3085edfb06"
+        }]
+    },
+    {
+        "id": "44225919",
+        "image_urls": ["https://photos.zillowstatic.com/fp/93f900763b33ea8bf4c436bd3ad68e03-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/7720-SW-51st-Ave-Miami-FL-33143/44225919_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$1,485,000",
+        "address": "7720 SW 51st Ave, Miami, FL 33143",
+        "beds": 3,
+        "baths": 3.0,
+        "area_sqft": 3375,
+        "latitude": 25.69966,
+        "longitude": -80.276413,
+        "broker_name": "Compass Florida, LLC",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/93f900763b33ea8bf4c436bd3ad68e03-p_e.jpg",
+            "path": "full/44225919.jpg",
+            "checksum": "6a6134bf444823a69747235833f46a8e"
+        }]
+    },
+    {
+        "id": "2071289669",
+        "image_urls": ["https://photos.zillowstatic.com/fp/b4e2b008da87abaca5da89f5cb807566-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/12983-SW-135th-Ter-TRAILER-12983-Miami-FL-33186/2071289669_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "Townhouse for sale",
+        "price": "$360,000",
+        "address": "12983 SW 135th Ter TRAILER 12983, Miami, FL 33186",
+        "beds": 3,
+        "baths": 3.0,
+        "area_sqft": 1564,
+        "latitude": 25.641802,
+        "longitude": -80.403953,
+        "broker_name": "Lifestyle International Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/b4e2b008da87abaca5da89f5cb807566-p_e.jpg",
+            "path": "full/2071289669.jpg",
+            "checksum": "e49297dadc847b2b18882f182c664479"
+        }]
+    },
+    {
+        "id": "162031212",
+        "image_urls": ["https://photos.zillowstatic.com/fp/0d1fe88634355f37ff981dbad2d09cb5-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/16105-SW-136th-Ter-Miami-FL-33196/162031212_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$800,000",
+        "address": "16105 SW 136th Ter, Miami, FL 33196",
+        "beds": 5,
+        "baths": 4.0,
+        "area_sqft": 3045,
+        "latitude": 25.639447,
+        "longitude": -80.45479,
+        "broker_name": "Florida Realty of Miami Corp",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/0d1fe88634355f37ff981dbad2d09cb5-p_e.jpg",
+            "path": "full/162031212.jpg",
+            "checksum": "40f1ef9ba1e6565651c1974c24b323b0"
+        }]
+    },
+    {
+        "id": "44290468",
+        "image_urls": ["https://photos.zillowstatic.com/fp/4f321201b8a61f6729dfbe0e9b5011be-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/13620-SW-102nd-Ave-Miami-FL-33176/44290468_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$725,000",
+        "address": "13620 SW 102nd Ave, Miami, FL 33176",
+        "beds": 3,
+        "baths": 3.0,
+        "area_sqft": 2672,
+        "latitude": 25.642472,
+        "longitude": -80.358812,
+        "broker_name": "Coldwell Banker Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/4f321201b8a61f6729dfbe0e9b5011be-p_e.jpg",
+            "path": "full/44290468.jpg",
+            "checksum": "a18939611f8f47e9563fc63caaf2d201"
+        }]
+    },
+    {
+        "id": "155790747",
+        "image_urls": ["https://photos.zillowstatic.com/fp/e4565ce0cc1d2ec2007b9e15f24ea34f-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/2138-SW-23rd-St-Miami-FL-33145/155790747_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$695,000",
+        "address": "2138 SW 23rd St, Miami, FL 33145",
+        "beds": 2,
+        "baths": 1.0,
+        "area_sqft": 1391,
+        "latitude": 25.748776,
+        "longitude": -80.228857,
+        "broker_name": "Riviera Realty Associates Inc",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/e4565ce0cc1d2ec2007b9e15f24ea34f-p_e.jpg",
+            "path": "full/155790747.jpg",
+            "checksum": "daf215f584f528212609471f5281c4f8"
+        }]
+    },
+    {
+        "id": "43823056",
+        "image_urls": ["https://photos.zillowstatic.com/fp/656f125c83486082c6cd8313d57e9569-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/3027-NW-17th-St-Miami-FL-33125/43823056_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$379,900",
+        "address": "3027 NW 17th St, Miami, FL 33125",
+        "beds": 4,
+        "baths": 3.0,
+        "area_sqft": 2143,
+        "latitude": 25.790683,
+        "longitude": -80.244322,
+        "broker_name": "Coldwell Banker Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/656f125c83486082c6cd8313d57e9569-p_e.jpg",
+            "path": "full/43823056.jpg",
+            "checksum": "f34049e4b1ff5f818df306ba58c3c7a8"
+        }]
+    },
+    {
+        "id": "43850731",
+        "image_urls": ["https://photos.zillowstatic.com/fp/ff480e65e189572741fe26446563f05d-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/2221-SW-19th-Ter-Miami-FL-33145/43850731_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$695,000",
+        "address": "2221 SW 19th Ter, Miami, FL 33145",
+        "beds": 3,
+        "baths": 3.0,
+        "area_sqft": 1413,
+        "latitude": 25.753732,
+        "longitude": -80.230761,
+        "broker_name": "Compass Florida, LLC",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/ff480e65e189572741fe26446563f05d-p_e.jpg",
+            "path": "full/43850731.jpg",
+            "checksum": "e2e8745a2c4cd376a1f7138cda8a2aa9"
+        }]
+    },
+    {
+        "id": "44189557",
+        "image_urls": ["https://photos.zillowstatic.com/fp/3fe85d0675c1915dab40f4235a97dcc4-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/6852-SW-35th-St-Miami-FL-33155/44189557_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$449,500",
+        "address": "6852 SW 35th St, Miami, FL 33155",
+        "beds": 3,
+        "baths": 2.0,
+        "area_sqft": 1605,
+        "latitude": 25.737057,
+        "longitude": -80.306134,
+        "broker_name": "BHHS EWM Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/3fe85d0675c1915dab40f4235a97dcc4-p_e.jpg",
+            "path": "full/44189557.jpg",
+            "checksum": "dd7bc878a73bc3bb6466bf63d359e477"
+        }]
+    },
+    {
+        "id": "44327206",
+        "image_urls": ["https://photos.zillowstatic.com/fp/7c0be7a35968214f10fbbf778394c494-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/15131-SW-145th-St-Miami-FL-33196/44327206_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$795,000",
+        "address": "15131 SW 145th St, Miami, FL 33196",
+        "beds": 6,
+        "baths": 4.0,
+        "area_sqft": 3738,
+        "latitude": 25.632637,
+        "longitude": -80.438709,
+        "broker_name": "Blue Lighthouse Realty, INC",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/7c0be7a35968214f10fbbf778394c494-p_e.jpg",
+            "path": "full/44327206.jpg",
+            "checksum": "a8c1dea4f0fc54f751e17f954f113837"
+        }]
+    },
+    {
+        "id": "43845510",
+        "image_urls": ["https://photos.zillowstatic.com/fp/3ff198ef49f2c0784d233e1225a46664-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/5163-NW-4th-St-Miami-FL-33126/43845510_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$425,000",
+        "address": "5163 NW 4th St, Miami, FL 33126",
+        "beds": 3,
+        "baths": 2.0,
+        "area_sqft": 1594,
+        "latitude": 25.775499,
+        "longitude": -80.279287,
+        "broker_name": "Real Estate Sales Force",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/3ff198ef49f2c0784d233e1225a46664-p_e.jpg",
+            "path": "full/43845510.jpg",
+            "checksum": "32dba1a2905a0438ae730153e427181d"
+        }]
+    },
+    {
+        "id": "82067280",
+        "image_urls": ["https://photos.zillowstatic.com/fp/bc9a1d2e2e4ee39e211435990046a32e-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/520-NE-29th-St-905-Miami-FL-33137/82067280_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "Condo for sale",
+        "price": "$280,000",
+        "address": "520 NE 29th St #905, Miami, FL 33137",
+        "beds": 1,
+        "baths": 1.0,
+        "area_sqft": 706,
+        "latitude": 25.804137,
+        "longitude": -80.186245,
+        "broker_name": "BHHS EWM Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/bc9a1d2e2e4ee39e211435990046a32e-p_e.jpg",
+            "path": "full/82067280.jpg",
+            "checksum": "1c7c8c6d4887a6ef8b67947140cd0c3b"
+        }]
+    },
+    {
+        "id": "44327600",
+        "image_urls": ["https://photos.zillowstatic.com/fp/f9830b3f99d8cf4d0fad9eca1c559e01-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/14790-SW-151st-Ter-Miami-FL-33196/44327600_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$460,000",
+        "address": "14790 SW 151st Ter, Miami, FL 33196",
+        "beds": 6,
+        "baths": 4.0,
+        "area_sqft": 2389,
+        "latitude": 25.625903,
+        "longitude": -80.433049,
+        "broker_name": "Julies Realty, LLC",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/f9830b3f99d8cf4d0fad9eca1c559e01-p_e.jpg",
+            "path": "full/44327600.jpg",
+            "checksum": "af6044f1cfe0392a7e6e7a64b0dd10ec"
+        }]
+    },
+    {
+        "id": "2085239979",
+        "image_urls": ["https://photos.zillowstatic.com/fp/98daedcd116448b2bea65d4282cb29b0-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/3630-Sw-88th-Pl-B-Miami-FL-33165/2085239979_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "Townhouse for sale",
+        "price": "$430,000",
+        "address": "3630 Sw 88th Pl #B, Miami, FL 33165",
+        "beds": 3,
+        "baths": 3.0,
+        "area_sqft": 1203,
+        "latitude": 25.736285,
+        "longitude": -80.339104,
+        "broker_name": "Holy Keys Realty Group LLC",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/98daedcd116448b2bea65d4282cb29b0-p_e.jpg",
+            "path": "full/2085239979.jpg",
+            "checksum": "9d5b9b48ae7e0e756971267cd5165eaa"
+        }]
+    },
+    {
+        "id": "162032152",
+        "image_urls": ["https://photos.zillowstatic.com/fp/3dd7ec89097b316ac4b667e1e1d21ca3-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/16058-SW-136th-Way-Miami-FL-33196/162032152_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$715,000",
+        "address": "16058 SW 136th Way, Miami, FL 33196",
+        "beds": 4,
+        "baths": 3.0,
+        "area_sqft": 2597,
+        "latitude": 25.638382,
+        "longitude": -80.454343,
+        "broker_name": "London Foster Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/3dd7ec89097b316ac4b667e1e1d21ca3-p_e.jpg",
+            "path": "full/162032152.jpg",
+            "checksum": "4c8536793b10748069421927c2245c39"
+        }]
+    },
+    {
+        "id": "43809827",
+        "image_urls": ["https://photos.zillowstatic.com/fp/17462ad78697d6a45e7a57e7493506dc-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/1083-NW-65th-St-Miami-FL-33150/43809827_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$270,000",
+        "address": "1083 NW 65th St, Miami, FL 33150",
+        "beds": 3,
+        "baths": 1.0,
+        "area_sqft": 1285,
+        "latitude": 25.834559,
+        "longitude": -80.214377,
+        "broker_name": "Douglas Elliman",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/17462ad78697d6a45e7a57e7493506dc-p_e.jpg",
+            "path": "full/43809827.jpg",
+            "checksum": "c2dc9440967e03cb0af43f99d6294605"
+        }]
+    },
+    {
+        "id": "43864462",
+        "image_urls": ["https://photos.zillowstatic.com/fp/15c933fcc1e3bd30df1e932123fca9a1-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/4040-Matheson-Ave-Miami-FL-33133/43864462_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$2,299,000",
+        "address": "4040 Matheson Ave, Miami, FL 33133",
+        "beds": 4,
+        "baths": 3.0,
+        "area_sqft": 2220,
+        "latitude": 25.711059,
+        "longitude": -80.25791,
+        "broker_name": "The Corcoran Group",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/15c933fcc1e3bd30df1e932123fca9a1-p_e.jpg",
+            "path": "full/43864462.jpg",
+            "checksum": "cc04cbadd1c5f299f319c85a7b36ae99"
+        }]
+    },
+    {
+        "id": "2069735620",
+        "image_urls": ["https://photos.zillowstatic.com/fp/3c51584929a31cfed58a7a329bf9ee1e-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/14661-Bethune-Dr-Miami-FL-33176/2069735620_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "Auction",
+        "price": "$50K",
+        "address": "14661 Bethune Dr, Miami, FL 33176",
+        "latitude": 25.632682,
+        "longitude": -80.3781,
+        "broker_name": "Fisher Auction Co, Inc",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/3c51584929a31cfed58a7a329bf9ee1e-p_e.jpg",
+            "path": "full/2069735620.jpg",
+            "checksum": "9429a5d670d0381fa8bbb302073aad7e"
+        }]
+    },
+    {
+        "id": "331696844",
+        "image_urls": ["https://photos.zillowstatic.com/fp/9f369db88e2f1c37b19e3791ec721833-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/227-NW-39th-St-Miami-FL-33127/331696844_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "New construction",
+        "price": "$899,990",
+        "address": "227 NW 39th St, Miami, FL 33127",
+        "beds": 3,
+        "baths": 3.0,
+        "area_sqft": 1723,
+        "latitude": 25.812505,
+        "longitude": -80.200037,
+        "broker_name": "Florida Capital Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/9f369db88e2f1c37b19e3791ec721833-p_e.jpg",
+            "path": "full/331696844.jpg",
+            "checksum": "1904b7dafce6774982a4b3a5a19f1659"
+        }]
+    },
+    {
+        "id": "64484452",
+        "image_urls": ["https://photos.zillowstatic.com/fp/69a78e415bef62f76b6d9188fa808c54-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/1043-NW-2nd-St-APT-2-Miami-FL-33128/64484452_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "Condo for sale",
+        "price": "$140,000",
+        "address": "1043 NW 2nd St APT 2, Miami, FL 33128",
+        "beds": 2,
+        "baths": 1.0,
+        "area_sqft": 715,
+        "latitude": 25.775834,
+        "longitude": -80.212444,
+        "broker_name": "Rejoice Realty Group,  Inc.",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/69a78e415bef62f76b6d9188fa808c54-p_e.jpg",
+            "path": "full/64484452.jpg",
+            "checksum": "0a5f8437ede5665db374e6010b8e61cc"
+        }]
+    },
+    {
+        "id": "43844861",
+        "image_urls": ["https://photos.zillowstatic.com/fp/95fa1db5cc23291a222257746306b92f-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/5598-SW-5th-St-Miami-FL-33134/43844861_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$575,000",
+        "address": "5598 SW 5th St, Miami, FL 33134",
+        "beds": 3,
+        "baths": 3.0,
+        "area_sqft": 2056,
+        "latitude": 25.766417,
+        "longitude": -80.285628,
+        "broker_name": "Charles Rutenberg Realty Fort",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/95fa1db5cc23291a222257746306b92f-p_e.jpg",
+            "path": "full/43844861.jpg",
+            "checksum": "2a1888a7772bde5b4dab761513b599a9"
+        }]
+    },
+    {
+        "id": "44276274",
+        "image_urls": ["https://photos.zillowstatic.com/fp/e3206ed54dd8dca48b487622ecc0a4d3-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/9955-SW-87th-Ct-Miami-FL-33176/44276274_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$1,299,000",
+        "address": "9955 SW 87th Ct, Miami, FL 33176",
+        "beds": 5,
+        "baths": 3.0,
+        "area_sqft": 2640,
+        "latitude": 25.677529,
+        "longitude": -80.336271,
+        "broker_name": "Income Realty Corporation",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/e3206ed54dd8dca48b487622ecc0a4d3-p_e.jpg",
+            "path": "full/44276274.jpg",
+            "checksum": "5a566a674e67fbe28f271e13b6c1310d"
+        }]
+    },
+    {
+        "id": "44190896",
+        "image_urls": ["https://photos.zillowstatic.com/fp/ee8b2e111ffcccb86f093909fdd35146-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/2451-SW-83rd-Ct-Miami-FL-33155/44190896_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$799,000",
+        "address": "2451 SW 83rd Ct, Miami, FL 33155",
+        "beds": 4,
+        "baths": 3.0,
+        "area_sqft": 1948,
+        "latitude": 25.746302,
+        "longitude": -80.330503,
+        "broker_name": "BHHS EWM Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/ee8b2e111ffcccb86f093909fdd35146-p_e.jpg",
+            "path": "full/44190896.jpg",
+            "checksum": "d39f20d3955e56e0eb07cf60ac93b5e2"
+        }]
+    },
+    {
+        "id": "247680299",
+        "image_urls": ["https://photos.zillowstatic.com/fp/a396705b0326a7b55997f94384879f42-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/151-SE-1st-St-APT-1811-Miami-FL-33131/247680299_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "Condo for sale",
+        "price": "$299,900",
+        "address": "151 SE 1st St APT 1811, Miami, FL 33131",
+        "beds": 2,
+        "baths": 2.0,
+        "area_sqft": 791,
+        "latitude": 25.773623,
+        "longitude": -80.190657,
+        "broker_name": "Newgard Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/a396705b0326a7b55997f94384879f42-p_e.jpg",
+            "path": "full/247680299.jpg",
+            "checksum": "2ea39d52aa67524a4adc85546f8726cd"
+        }]
+    },
+    {
+        "id": "162034777",
+        "image_urls": ["https://photos.zillowstatic.com/fp/cdce9610c61ac8283f03935f9699e603-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/13631-SW-159th-Ave-Miami-FL-33196/162034777_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$849,500",
+        "address": "13631 SW 159th Ave, Miami, FL 33196",
+        "beds": 4,
+        "baths": 3.0,
+        "area_sqft": 2847,
+        "latitude": 25.63924,
+        "longitude": -80.451461,
+        "broker_name": "Sellstate Partners Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/cdce9610c61ac8283f03935f9699e603-p_e.jpg",
+            "path": "full/162034777.jpg",
+            "checksum": "e0fafb9ebcc40f50359570d47c763b97"
+        }]
+    },
+    {
+        "id": "44283255",
+        "image_urls": ["https://photos.zillowstatic.com/fp/b2343f71fd4a13de6b5afeea90ef7113-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/8961-SW-108th-St-Miami-FL-33176/44283255_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$3,100,000",
+        "address": "8961 SW 108th St, Miami, FL 33176",
+        "beds": 6,
+        "baths": 6.0,
+        "area_sqft": 5913,
+        "latitude": 25.670106,
+        "longitude": -80.340274,
+        "broker_name": "Fortune International Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/b2343f71fd4a13de6b5afeea90ef7113-p_e.jpg",
+            "path": "full/44283255.jpg",
+            "checksum": "b606d5597cde4ccb677446f3fef25155"
+        }]
+    },
+    {
+        "id": "44186200",
+        "image_urls": ["https://photos.zillowstatic.com/fp/85a67f27a88f19ec9d54209ffd2b24ad-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/6061-SW-19th-St-Miami-FL-33155/44186200_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$499,000",
+        "address": "6061 SW 19th St, Miami, FL 33155",
+        "beds": 4,
+        "baths": 3.0,
+        "area_sqft": 1424,
+        "latitude": 25.753693,
+        "longitude": -80.293779,
+        "broker_name": "DK International Rlty Inc.",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/85a67f27a88f19ec9d54209ffd2b24ad-p_e.jpg",
+            "path": "full/44186200.jpg",
+            "checksum": "63749c67070006a807ef817a2d5e2033"
+        }]
+    },
+    {
+        "id": "44188573",
+        "image_urls": ["https://photos.zillowstatic.com/fp/8f82451893586b912039a9c4df1d4b13-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/2525-SW-65th-Ave-Miami-FL-33155/44188573_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$780,000",
+        "address": "2525 SW 65th Ave, Miami, FL 33155",
+        "beds": 3,
+        "baths": 2.0,
+        "area_sqft": 1528,
+        "latitude": 25.747123,
+        "longitude": -80.301767,
+        "broker_name": "Berkshire Hathaway HomeServices Florida Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/8f82451893586b912039a9c4df1d4b13-p_e.jpg",
+            "path": "full/44188573.jpg",
+            "checksum": "ccdd471fd3a5e1cb1e9223bf6c3cdb04"
+        }]
+    },
+    {
+        "id": "2070053458",
+        "image_urls": ["https://photos.zillowstatic.com/fp/4f09077ac5d8762b6dfd34560cdca0a7-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/35-35th-St-Miami-FL-33185/2070053458_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "Lot / Land for sale",
+        "price": "$35,000",
+        "address": "35 35th St, Miami, FL 33185",
+        "latitude": 25.809679,
+        "longitude": -80.196067,
+        "broker_name": "Homeside Realty Corp.",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/4f09077ac5d8762b6dfd34560cdca0a7-p_e.jpg",
+            "path": "full/2070053458.jpg",
+            "checksum": "85b2ed1ee6d92fdee9561c2a1e37f49f"
+        }]
+    },
+    {
+        "id": "43829104",
+        "image_urls": ["https://photos.zillowstatic.com/fp/d5090c84fc9e919efab4ae4510c15757-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/5981-NE-6th-Ave-Miami-FL-33137/43829104_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$859,900",
+        "address": "5981 NE 6th Ave, Miami, FL 33137",
+        "beds": 3,
+        "baths": 2.0,
+        "area_sqft": 1408,
+        "latitude": 25.831565,
+        "longitude": -80.183536,
+        "broker_name": "Florida Capital Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/d5090c84fc9e919efab4ae4510c15757-p_e.jpg",
+            "path": "full/43829104.jpg",
+            "checksum": "6b1d2b1e4268666b342848303281b691"
+        }]
+    },
+    {
+        "id": "70766602",
+        "image_urls": ["https://photos.zillowstatic.com/fp/fc5ef1e8de34cef4445f3d74aa5a8678-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/5077-NW-7th-St-APT-1202-Miami-FL-33126/70766602_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "Condo for sale",
+        "price": "$372,500",
+        "address": "5077 NW 7th St APT 1202, Miami, FL 33126",
+        "beds": 3,
+        "baths": 2.0,
+        "area_sqft": 1308,
+        "latitude": 25.78006,
+        "longitude": -80.276228,
+        "broker_name": "Give me 5 Real Estate",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/fc5ef1e8de34cef4445f3d74aa5a8678-p_e.jpg",
+            "path": "full/70766602.jpg",
+            "checksum": "fcfb347e8a67b017808dc4345fe4318d"
+        }]
+    },
+    {
+        "id": "44190162",
+        "image_urls": ["https://photos.zillowstatic.com/fp/af84ac6aeb8d52d92ee32e21090304c8-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/7395-SW-39th-St-Miami-FL-33155/44190162_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$583,000",
+        "address": "7395 SW 39th St, Miami, FL 33155",
+        "beds": 4,
+        "baths": 2.0,
+        "area_sqft": 2280,
+        "latitude": 25.734713,
+        "longitude": -80.314987,
+        "broker_name": "Real Estate Sales Force",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/af84ac6aeb8d52d92ee32e21090304c8-p_e.jpg",
+            "path": "full/44190162.jpg",
+            "checksum": "9e3db9870444da394514a10492e07fdd"
+        }]
+    },
+    {
+        "id": "44191290",
+        "image_urls": ["https://photos.zillowstatic.com/fp/b54934163e47d1d48551ac92e8f45f8e-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/7925-SW-28th-St-Miami-FL-33155/44191290_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$1,050,000",
+        "address": "7925 SW 28th St, Miami, FL 33155",
+        "beds": 6,
+        "baths": 3.0,
+        "area_sqft": 2151,
+        "latitude": 25.744541,
+        "longitude": -80.324062,
+        "broker_name": "RE/MAX Advance Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/b54934163e47d1d48551ac92e8f45f8e-p_e.jpg",
+            "path": "full/44191290.jpg",
+            "checksum": "3e54d107d80a028e36d8d475505dd0ca"
+        }]
+    },
+    {
+        "id": "44212240",
+        "image_urls": ["https://photos.zillowstatic.com/fp/54a807dcef46af0ce1bed4901548f658-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/11440-SW-57th-Ter-Miami-FL-33173/44212240_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$399,900",
+        "address": "11440 SW 57th Ter, Miami, FL 33173",
+        "beds": 3,
+        "baths": 2.0,
+        "area_sqft": 1467,
+        "latitude": 25.713252,
+        "longitude": -80.37931,
+        "broker_name": "Redfin Corporation",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/54a807dcef46af0ce1bed4901548f658-p_e.jpg",
+            "path": "full/44212240.jpg",
+            "checksum": "07fe45b949daf6f59a6915478dda1606"
+        }]
+    },
+    {
+        "id": "43872431",
+        "image_urls": ["https://photos.zillowstatic.com/fp/33fec10d602ccfe3e0ae3294a81e7055-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/520-Brickell-Key-Dr-APT-A1110-Miami-FL-33131/43872431_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "Condo for sale",
+        "price": "$549,000",
+        "address": "520 Brickell Key Dr APT A1110, Miami, FL 33131",
+        "beds": 2,
+        "baths": 2.0,
+        "area_sqft": 1464,
+        "latitude": 25.767234,
+        "longitude": -80.184275,
+        "broker_name": "Compass Florida, LLC",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/33fec10d602ccfe3e0ae3294a81e7055-p_e.jpg",
+            "path": "full/43872431.jpg",
+            "checksum": "87b3924e6f776b1fddb98f667ebb9a5a"
+        }]
+    },
+    {
+        "id": "70765550",
+        "image_urls": ["https://photos.zillowstatic.com/fp/53a607bcb734a4636d9b9cbe91e6fc5f-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/12871-SW-135th-Ter-Miami-FL-33186/70765550_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "Townhouse for sale",
+        "price": "$365,000",
+        "address": "12871 SW 135th Ter, Miami, FL 33186",
+        "beds": 3,
+        "baths": 3.0,
+        "area_sqft": 1564,
+        "latitude": 25.64187,
+        "longitude": -80.402153,
+        "broker_name": "Real Estate Empire Group, Inc.",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/53a607bcb734a4636d9b9cbe91e6fc5f-p_e.jpg",
+            "path": "full/70765550.jpg",
+            "checksum": "7e9119c758fc61bcf682e346e18fd1c8"
+        }]
+    },
+    {
+        "id": "44283922",
+        "image_urls": ["https://photos.zillowstatic.com/fp/3ea06d5b26ece879dbe8b721c1d5750c-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/11845-SW-82nd-Rd-Miami-FL-33156/44283922_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$699,000",
+        "address": "11845 SW 82nd Rd, Miami, FL 33156",
+        "beds": 3,
+        "baths": 2.0,
+        "area_sqft": 1690,
+        "latitude": 25.659732,
+        "longitude": -80.327457,
+        "broker_name": "LoKation",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/3ea06d5b26ece879dbe8b721c1d5750c-p_e.jpg",
+            "path": "full/44283922.jpg",
+            "checksum": "ab63cf838df8954ef9d2697f753e0d4d"
+        }]
+    },
+    {
+        "id": "44213974",
+        "image_urls": ["https://photos.zillowstatic.com/fp/17fa075fba1c6cf344158d1c29179b57-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/6912-SW-110th-Ave-Miami-FL-33173/44213974_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "Townhouse for sale",
+        "price": "$349,990",
+        "address": "6912 SW 110th Ave, Miami, FL 33173",
+        "beds": 3,
+        "baths": 2.0,
+        "area_sqft": 1378,
+        "latitude": 25.703687,
+        "longitude": -80.371791,
+        "broker_name": "Lifestyle International Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/17fa075fba1c6cf344158d1c29179b57-p_e.jpg",
+            "path": "full/44213974.jpg",
+            "checksum": "9a54461be216931b4eb79ae089ecd96b"
+        }]
+    },
+    {
+        "id": "44286616",
+        "image_urls": ["https://photos.zillowstatic.com/fp/c4f5ed92f95906b3043e89e52bd77069-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/9988-SW-126th-Ter-Miami-FL-33176/44286616_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$1,300,000",
+        "address": "9988 SW 126th Ter, Miami, FL 33176",
+        "beds": 5,
+        "baths": 3.0,
+        "area_sqft": 3884,
+        "latitude": 25.651893,
+        "longitude": -80.356546,
+        "broker_name": "Coldwell Banker Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/c4f5ed92f95906b3043e89e52bd77069-p_e.jpg",
+            "path": "full/44286616.jpg",
+            "checksum": "c8380caab21b7be8bac853255d805108"
+        }]
+    },
+    {
+        "id": "43861437",
+        "image_urls": ["https://photos.zillowstatic.com/fp/eab32b5c29ac868586f0f4ca2cad33c3-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/3635-Avocado-Ave-Miami-FL-33133/43861437_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$1,800,000",
+        "address": "3635 Avocado Ave, Miami, FL 33133",
+        "beds": 4,
+        "baths": 4.0,
+        "area_sqft": 1272,
+        "latitude": 25.723317,
+        "longitude": -80.251767,
+        "broker_name": "AG Real Estate Advisors, LLC",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/eab32b5c29ac868586f0f4ca2cad33c3-p_e.jpg",
+            "path": "full/43861437.jpg",
+            "checksum": "a20549608a91634cd7e47aeb8e6181b5"
+        }]
+    },
+    {
+        "id": "44218248",
+        "image_urls": ["https://photos.zillowstatic.com/fp/11f42b1b5f9260e40abc288b50ced9de-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/10399-N-Kendall-Dr-APT-AA1-Miami-FL-33176/44218248_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "Condo for sale",
+        "price": "$165,000",
+        "address": "10399 N Kendall Dr APT AA1, Miami, FL 33176",
+        "beds": 1,
+        "baths": 1.0,
+        "area_sqft": 765,
+        "latitude": 25.689016,
+        "longitude": -80.361384,
+        "broker_name": "Douglas Elliman",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/11f42b1b5f9260e40abc288b50ced9de-p_e.jpg",
+            "path": "full/44218248.jpg",
+            "checksum": "d294ca9076b0a05869ed26fb78b4acbe"
+        }]
+    },
+    {
+        "id": "43827090",
+        "image_urls": ["https://photos.zillowstatic.com/fp/8b2a09c9ccfdfcc5e94172d3c1308c97-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/8225-NE-8th-Ct-Miami-FL-33138/43827090_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$990,500",
+        "address": "8225 NE 8th Ct, Miami, FL 33138",
+        "beds": 3,
+        "baths": 3.0,
+        "area_sqft": 1788,
+        "latitude": 25.850877,
+        "longitude": -80.179387,
+        "broker_name": "The Keyes Company",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/8b2a09c9ccfdfcc5e94172d3c1308c97-p_e.jpg",
+            "path": "full/43827090.jpg",
+            "checksum": "8ce2d985c86d4c96ff7f9e7b88a57789"
+        }]
+    },
+    {
+        "id": "43864361",
+        "image_urls": ["https://photos.zillowstatic.com/fp/2a10714556ee2d0c85a9e63b6164925c-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/4224-Lennox-Dr-Miami-FL-33133/43864361_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$2,500,000",
+        "address": "4224 Lennox Dr, Miami, FL 33133",
+        "beds": 3,
+        "baths": 3.0,
+        "area_sqft": 3284,
+        "latitude": 25.712241,
+        "longitude": -80.256716,
+        "broker_name": "One Sotheby's International Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/2a10714556ee2d0c85a9e63b6164925c-p_e.jpg",
+            "path": "full/43864361.jpg",
+            "checksum": "6babf3f60eb0e87a155787006e58ac0e"
+        }]
+    },
+    {
+        "id": "43864733",
+        "image_urls": ["https://photos.zillowstatic.com/fp/fe36e96092711278a665aa3e20f57827-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/330-SW-19th-Rd-Miami-FL-33129/43864733_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$680,000",
+        "address": "330 SW 19th Rd, Miami, FL 33129",
+        "beds": 2,
+        "baths": 2.0,
+        "area_sqft": 1314,
+        "latitude": 25.759839,
+        "longitude": -80.20304,
+        "broker_name": "Coldwell Banker Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/fe36e96092711278a665aa3e20f57827-p_e.jpg",
+            "path": "full/43864733.jpg",
+            "checksum": "69cf54908648772fa88abee5a9cae970"
+        }]
+    },
+    {
+        "id": "92437532",
+        "image_urls": ["https://photos.zillowstatic.com/fp/42a0d794b89f052c4f48d3b4597190ea-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/90-SW-3rd-St-APT-2814-Miami-FL-33130/92437532_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$440,000",
+        "address": "90 SW 3rd St APT 2814, Miami, FL 33130",
+        "beds": 2,
+        "baths": 2.0,
+        "area_sqft": 1172,
+        "latitude": 25.770422,
+        "longitude": -80.194986,
+        "broker_name": "The Basel House",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/42a0d794b89f052c4f48d3b4597190ea-p_e.jpg",
+            "path": "full/92437532.jpg",
+            "checksum": "016b10d872143b8c78364a199dbc7534"
+        }]
+    },
+    {
+        "id": "83158677",
+        "image_urls": ["https://photos.zillowstatic.com/fp/b697e318015838afc4a4b2d50f7a4fb8-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/36-NW-6th-Ave-APT-1004-Miami-FL-33128/83158677_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "Condo for sale",
+        "price": "$223,000",
+        "address": "36 NW 6th Ave APT 1004, Miami, FL 33128",
+        "beds": 2,
+        "baths": 2.0,
+        "area_sqft": 940,
+        "latitude": 25.77435,
+        "longitude": -80.204717,
+        "broker_name": "Elite International Realty Inc",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/b697e318015838afc4a4b2d50f7a4fb8-p_e.jpg",
+            "path": "full/83158677.jpg",
+            "checksum": "fc7dc166d961cbf94541e02f11148002"
+        }]
+    },
+    {
+        "id": "43860498",
+        "image_urls": ["https://photos.zillowstatic.com/fp/e25129b4aef4c223101c2059e72725a2-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/3835-Kumquat-Ave-Miami-FL-33133/43860498_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "New construction",
+        "price": "$1,729,000",
+        "address": "3835 Kumquat Ave, Miami, FL 33133",
+        "beds": 3,
+        "baths": 3.0,
+        "area_sqft": 2350,
+        "latitude": 25.724649,
+        "longitude": -80.25479,
+        "broker_name": "Douglas Elliman",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/e25129b4aef4c223101c2059e72725a2-p_e.jpg",
+            "path": "full/43860498.jpg",
+            "checksum": "756907ff0d4eb1165fcc73614056ca91"
+        }]
+    },
+    {
+        "id": "44226451",
+        "image_urls": ["https://photos.zillowstatic.com/fp/ce17deb08813e3097149d4740b538e6f-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/4955-SW-83rd-St-Miami-FL-33143/44226451_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$15,000,000",
+        "address": "4955 SW 83rd St, Miami, FL 33143",
+        "beds": 7,
+        "baths": 11.0,
+        "area_sqft": 9952,
+        "latitude": 25.694944,
+        "longitude": -80.273919,
+        "broker_name": "One Sotheby's International Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/ce17deb08813e3097149d4740b538e6f-p_e.jpg",
+            "path": "full/44226451.jpg",
+            "checksum": "29a7692de7594a1aa1c2d5cfe03182ca"
+        }]
+    },
+    {
+        "id": "43834720",
+        "image_urls": ["https://photos.zillowstatic.com/fp/ac4680ce25e4ba0dd3b5e11a669de728-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/110-SW-62nd-Ct-Miami-FL-33144/43834720_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$550,000",
+        "address": "110 SW 62nd Ct, Miami, FL 33144",
+        "beds": 3,
+        "baths": 1.0,
+        "area_sqft": 2135,
+        "latitude": 25.769427,
+        "longitude": -80.297403,
+        "broker_name": "The Keyes Company",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/ac4680ce25e4ba0dd3b5e11a669de728-p_e.jpg",
+            "path": "full/43834720.jpg",
+            "checksum": "8407154647bc343d81dec97921d3b5c7"
+        }]
+    },
+    {
+        "id": "43856502",
+        "image_urls": ["https://photos.zillowstatic.com/fp/26e2f8f4719e487754a01827388f8fde-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/3012-Kirk-St-Miami-FL-33133/43856502_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "New construction",
+        "price": "$3,990,000",
+        "address": "3012 Kirk St, Miami, FL 33133",
+        "beds": 3,
+        "baths": 4.0,
+        "area_sqft": 4299,
+        "latitude": 25.738508,
+        "longitude": -80.232188,
+        "broker_name": "Brown Harris Stevens",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/26e2f8f4719e487754a01827388f8fde-p_e.jpg",
+            "path": "full/43856502.jpg",
+            "checksum": "97a99626eb71cca5acf156aa11e4e97c"
+        }]
+    },
+    {
+        "id": "70774712",
+        "image_urls": ["https://photos.zillowstatic.com/fp/23c73f901b79b4ffebcf29769a70058f-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/3104-Bird-Ave-3104-Miami-FL-33133/70774712_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "Townhouse for sale",
+        "price": "$465,500",
+        "address": "3104 Bird Ave #3104, Miami, FL 33133",
+        "beds": 2,
+        "baths": 2.0,
+        "area_sqft": 1126,
+        "latitude": 25.735049,
+        "longitude": -80.244102,
+        "broker_name": "Modern World Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/23c73f901b79b4ffebcf29769a70058f-p_e.jpg",
+            "path": "full/70774712.jpg",
+            "checksum": "08b54a05656a1264255faabc2af14d20"
+        }]
+    },
+    {
+        "id": "60798544",
+        "image_urls": ["https://photos.zillowstatic.com/fp/95072bbc6833219a713deaa6cf8c2a2b-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/15891-SW-141st-Ter-Miami-FL-33196/60798544_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$697,000",
+        "address": "15891 SW 141st Ter, Miami, FL 33196",
+        "beds": 4,
+        "baths": 4.0,
+        "area_sqft": 2582,
+        "latitude": 25.635151,
+        "longitude": -80.45148,
+        "broker_name": "Jack Keller Inc",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/95072bbc6833219a713deaa6cf8c2a2b-p_e.jpg",
+            "path": "full/60798544.jpg",
+            "checksum": "8a87c37711919c1c780bbc41f219fef3"
+        }]
+    },
+    {
+        "id": "43827652",
+        "image_urls": ["https://photos.zillowstatic.com/fp/1dc0113df2261b5e2d43ffe85f01d85c-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/674-NE-75th-St-Miami-FL-33138/43827652_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$899,000",
+        "address": "674 NE 75th St, Miami, FL 33138",
+        "beds": 3,
+        "baths": 2.0,
+        "area_sqft": 1365,
+        "latitude": 25.843874,
+        "longitude": -80.182766,
+        "broker_name": "EXP Realty LLC",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/1dc0113df2261b5e2d43ffe85f01d85c-p_e.jpg",
+            "path": "full/43827652.jpg",
+            "checksum": "c4fe10508a7208ab2aba0351e9bae165"
+        }]
+    },
+    {
+        "id": "2103209747",
+        "image_urls": ["https://photos.zillowstatic.com/fp/8617ab7573c34c5648a0b8639134a905-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/1021-NW-3rd-St-Miami-FL-33128/2103209747_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$160,000",
+        "address": "1021 NW 3rd St, Miami, FL 33128",
+        "beds": 2,
+        "baths": 1.0,
+        "area_sqft": 615,
+        "latitude": 25.776774,
+        "longitude": -80.212007,
+        "broker_name": "Core International Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/8617ab7573c34c5648a0b8639134a905-p_e.jpg",
+            "path": "full/2103209747.jpg",
+            "checksum": "f51b274694c6cb6a95f9bc7e9d35ab89"
+        }]
+    },
+    {
+        "id": "121345474",
+        "image_urls": ["https://photos.zillowstatic.com/fp/d19e3e7c1bb7ff48be4c826b8605e942-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/1300-Brickell-Bay-Dr-APT-3602-Miami-FL-33131/121345474_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "Condo for sale",
+        "price": "$960,000",
+        "address": "1300 Brickell Bay Dr APT 3602, Miami, FL 33131",
+        "beds": 3,
+        "baths": 3.0,
+        "area_sqft": 1308,
+        "latitude": 25.760386,
+        "longitude": -80.190343,
+        "broker_name": "ONE Sotheby's International Re",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/d19e3e7c1bb7ff48be4c826b8605e942-p_e.jpg",
+            "path": "full/121345474.jpg",
+            "checksum": "e89f63df51ecad6b381485c9de244aaa"
+        }]
+    },
+    {
+        "id": "44331871",
+        "image_urls": ["https://photos.zillowstatic.com/fp/b2b1723be3977c1a91fe6ee7df587c0a-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/12744-SW-151st-Ln-Miami-FL-33186/44331871_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "Townhouse for sale",
+        "price": "$359,900",
+        "address": "12744 SW 151st Ln, Miami, FL 33186",
+        "beds": 2,
+        "baths": 3.0,
+        "area_sqft": 1917,
+        "latitude": 25.627033,
+        "longitude": -80.397056,
+        "broker_name": "The Real Estate Shoppe",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/b2b1723be3977c1a91fe6ee7df587c0a-p_e.jpg",
+            "path": "full/44331871.jpg",
+            "checksum": "2a2feec170813db53c02d63458eececb"
+        }]
+    },
+    {
+        "id": "43831741",
+        "image_urls": ["https://photos.zillowstatic.com/fp/d1ec19af38c77ae7840161bb3f9503c7-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/831-N-Venetian-Dr-Miami-Beach-FL-33139/43831741_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "New construction",
+        "price": "$16,900,000",
+        "address": "831 N Venetian Dr, Miami Beach, FL 33139",
+        "beds": 7,
+        "baths": 8.0,
+        "area_sqft": 6396,
+        "latitude": 25.790783,
+        "longitude": -80.178514,
+        "broker_name": "BHHS EWM Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/d1ec19af38c77ae7840161bb3f9503c7-p_e.jpg",
+            "path": "full/43831741.jpg",
+            "checksum": "2a4af2140268e2904e77cd9250c06530"
+        }]
+    },
+    {
+        "id": "43862770",
+        "image_urls": ["https://photos.zillowstatic.com/fp/b0241794973f930d6f78689786cd0a70-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/3323-Devon-Ct-Miami-FL-33133/43862770_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$33,000,000",
+        "address": "3323 Devon Ct, Miami, FL 33133",
+        "beds": 6,
+        "baths": 7.0,
+        "area_sqft": 8332,
+        "latitude": 25.720336,
+        "longitude": -80.244104,
+        "broker_name": "Coldwell Banker Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/b0241794973f930d6f78689786cd0a70-p_e.jpg",
+            "path": "full/43862770.jpg",
+            "checksum": "d0750df6c8a6ed96c6acef1abafb95a8"
+        }]
+    },
+    {
+        "id": "43816350",
+        "image_urls": ["https://photos.zillowstatic.com/fp/eb22bd2689fb4fe87da32db382158552-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/3201-NW-10th-Ct-Miami-FL-33127/43816350_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$398,000",
+        "address": "3201 NW 10th Ct, Miami, FL 33127",
+        "beds": 4,
+        "baths": 3.0,
+        "area_sqft": 1461,
+        "latitude": 25.806337,
+        "longitude": -80.21202,
+        "broker_name": "Sky-Land International Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/eb22bd2689fb4fe87da32db382158552-p_e.jpg",
+            "path": "full/43816350.jpg",
+            "checksum": "09b459a6457f00e894708fef7c2694ee"
+        }]
+    },
+    {
+        "id": "44307372",
+        "image_urls": ["https://photos.zillowstatic.com/fp/858e20f26301abc1fc7ed3451843f42b-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/11852-SW-97th-Ter-Miami-FL-33186/44307372_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "Townhouse for sale",
+        "price": "$315,000",
+        "address": "11852 SW 97th Ter, Miami, FL 33186",
+        "beds": 2,
+        "baths": 3.0,
+        "area_sqft": 1192,
+        "latitude": 25.677033,
+        "longitude": -80.387317,
+        "broker_name": "RE/MAX - City Centre Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/858e20f26301abc1fc7ed3451843f42b-p_e.jpg",
+            "path": "full/44307372.jpg",
+            "checksum": "bc9589fe61004e4aa7ab9afeac9e747d"
+        }]
+    },
+    {
+        "id": "44290382",
+        "image_urls": ["https://photos.zillowstatic.com/fp/35febaba6863248a6fd742941ff0fcb4-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/9775-SW-142nd-Dr-Miami-FL-33176/44290382_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$730,000",
+        "address": "9775 SW 142nd Dr, Miami, FL 33176",
+        "beds": 3,
+        "baths": 2.0,
+        "area_sqft": 2640,
+        "latitude": 25.638529,
+        "longitude": -80.351731,
+        "broker_name": "Anac Global Realty, LLC",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/35febaba6863248a6fd742941ff0fcb4-p_e.jpg",
+            "path": "full/44290382.jpg",
+            "checksum": "ca74e957b0e3f8e04a57f23095b4f5df"
+        }]
+    },
+    {
+        "id": "43861296",
+        "image_urls": ["https://photos.zillowstatic.com/fp/6d5e2822a13656cda8a8c572aa08f18f-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/3201-Thomas-Ave-Miami-FL-33133/43861296_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$595,000",
+        "address": "3201 Thomas Ave, Miami, FL 33133",
+        "beds": 2,
+        "baths": 1.0,
+        "area_sqft": 886,
+        "latitude": 25.727449,
+        "longitude": -80.245288,
+        "broker_name": "IBIS Realty Group, Inc.",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/6d5e2822a13656cda8a8c572aa08f18f-p_e.jpg",
+            "path": "full/43861296.jpg",
+            "checksum": "aa7dd9612bed10f2e5754a624555069f"
+        }]
+    },
+    {
+        "id": "43809655",
+        "image_urls": ["https://photos.zillowstatic.com/fp/025cdca53cf71a0acd106dfc0555e2ed-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/1524-NW-59th-St-Miami-FL-33142/43809655_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$120,000",
+        "address": "1524 NW 59th St, Miami, FL 33142",
+        "beds": 2,
+        "baths": 1.0,
+        "area_sqft": 580,
+        "latitude": 25.829377,
+        "longitude": -80.223225,
+        "broker_name": "Red Tie Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/025cdca53cf71a0acd106dfc0555e2ed-p_e.jpg",
+            "path": "full/43809655.jpg",
+            "checksum": "2c0b06d6ed4c4820150e05ba65abfdad"
+        }]
+    },
+    {
+        "id": "123867508",
+        "image_urls": ["https://photos.zillowstatic.com/fp/b76aceb4652331bf3438af5a7167ad8c-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/9301-SW-120th-St-Miami-FL-33176/123867508_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$2,690,000",
+        "address": "9301 SW 120th St, Miami, FL 33176",
+        "beds": 4,
+        "baths": 4.0,
+        "area_sqft": 3761,
+        "latitude": 25.658774,
+        "longitude": -80.345032,
+        "broker_name": "One Sotheby's International Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/b76aceb4652331bf3438af5a7167ad8c-p_e.jpg",
+            "path": "full/123867508.jpg",
+            "checksum": "f0faf062170d42ced45c2bdf2e16fb01"
+        }]
+    },
+    {
+        "id": "43823330",
+        "image_urls": ["https://photos.zillowstatic.com/fp/4225d576787eafb23f5049bb157d12ef-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/1308-NW-36th-Ave-Miami-FL-33125/43823330_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$375,900",
+        "address": "1308 NW 36th Ave, Miami, FL 33125",
+        "beds": 3,
+        "baths": 2.0,
+        "area_sqft": 1205,
+        "latitude": 25.785248,
+        "longitude": -80.254764,
+        "broker_name": "Positive Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/4225d576787eafb23f5049bb157d12ef-p_e.jpg",
+            "path": "full/43823330.jpg",
+            "checksum": "dc7479f2c8d26f96bd870ecf8030bcf5"
+        }]
+    },
+    {
+        "id": "2071582201",
+        "image_urls": ["https://photos.zillowstatic.com/fp/1c89e22a0d0f572b7d25dbaad9c42fa1-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/15600-SW-136th-St-207-Miami-FL-33196/2071582201_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "New construction",
+        "price": "$329,000",
+        "address": "15600 SW 136th St #207, Miami, FL 33196",
+        "beds": 3,
+        "baths": 3.0,
+        "latitude": 25.640114,
+        "longitude": -80.445526,
+        "broker_name": "Marcillo Real Estate LLC",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/1c89e22a0d0f572b7d25dbaad9c42fa1-p_e.jpg",
+            "path": "full/2071582201.jpg",
+            "checksum": "8b70cdcb39420440f8b03c3c4b9eb199"
+        }]
+    },
+    {
+        "id": "43857161",
+        "image_urls": ["https://photos.zillowstatic.com/fp/2009c92c4fd8e70cc4e8d52294733680-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/3240-Emathla-St-Miami-FL-33133/43857161_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$2,950,000",
+        "address": "3240 Emathla St, Miami, FL 33133",
+        "beds": 6,
+        "baths": 7.0,
+        "area_sqft": 3570,
+        "latitude": 25.737596,
+        "longitude": -80.227598,
+        "broker_name": "One Sotheby's International Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/2009c92c4fd8e70cc4e8d52294733680-p_e.jpg",
+            "path": "full/43857161.jpg",
+            "checksum": "74a69581a5e228ae3929855e6a7be0ac"
+        }]
+    },
+    {
+        "id": "43866512",
+        "image_urls": ["https://photos.zillowstatic.com/fp/f7346a326c90ca032e61b25e3062d9a7-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/2930-Brickell-Ave-Miami-FL-33129/43866512_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "New construction",
+        "price": "$10,495,000",
+        "address": "2930 Brickell Ave, Miami, FL 33129",
+        "beds": 7,
+        "baths": 9.0,
+        "area_sqft": 8167,
+        "latitude": 25.748539,
+        "longitude": -80.207265,
+        "broker_name": "Compass Florida, LLC",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/f7346a326c90ca032e61b25e3062d9a7-p_e.jpg",
+            "path": "full/43866512.jpg",
+            "checksum": "53ca5a4109b0009a272898a05f333a05"
+        }]
+    },
+    {
+        "id": "43862137",
+        "image_urls": ["https://photos.zillowstatic.com/fp/d12e76029df4528b61fa0a72e9f5844d-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/3190-Munroe-Dr-Miami-FL-33133/43862137_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "Foreclosure",
+        "price": "$3,744,000",
+        "address": "3190 Munroe Dr, Miami, FL 33133",
+        "beds": 5,
+        "baths": 6.0,
+        "area_sqft": 6898,
+        "latitude": 25.724908,
+        "longitude": -80.244661,
+        "broker_name": "RE/MAX Advance Realty II",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/d12e76029df4528b61fa0a72e9f5844d-p_e.jpg",
+            "path": "full/43862137.jpg",
+            "checksum": "18ae54e7f824fa419d311ae8ff907564"
+        }]
+    },
+    {
+        "id": "44220856",
+        "image_urls": ["https://photos.zillowstatic.com/fp/9cd9615383a9a7854bf91c4008400790-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/8200-SW-96th-Ct-Miami-FL-33173/44220856_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$515,000",
+        "address": "8200 SW 96th Ct, Miami, FL 33173",
+        "beds": 3,
+        "baths": 3.0,
+        "area_sqft": 2248,
+        "latitude": 25.692103,
+        "longitude": -80.348717,
+        "broker_name": "Lifestyle International Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/9cd9615383a9a7854bf91c4008400790-p_e.jpg",
+            "path": "full/44220856.jpg",
+            "checksum": "2fab1f897aa58db73f2ceddea8a38c66"
+        }]
+    },
+    {
+        "id": "43806253",
+        "image_urls": ["https://photos.zillowstatic.com/fp/757e3cd38d495328309bcfa2d3bc14cf-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/126-SW-6th-Ave-Miami-FL-33130/43806253_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$350,000",
+        "address": "126 SW 6th Ave, Miami, FL 33130",
+        "beds": 3,
+        "baths": 2.0,
+        "area_sqft": 1325,
+        "latitude": 25.772239,
+        "longitude": -80.204557,
+        "broker_name": "Swanes Group Realty, LLC",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/757e3cd38d495328309bcfa2d3bc14cf-p_e.jpg",
+            "path": "full/43806253.jpg",
+            "checksum": "32fe145daa8bdb056e8383ffd1243f35"
+        }]
+    },
+    {
+        "id": "43830245",
+        "image_urls": ["https://photos.zillowstatic.com/fp/ffbc2996803ab9cbb00ca21cbbfe4a2c-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/4241-Palm-Ln-Miami-FL-33137/43830245_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$15,500,000",
+        "address": "4241 Palm Ln, Miami, FL 33137",
+        "beds": 5,
+        "baths": 5.0,
+        "area_sqft": 6334,
+        "latitude": 25.81811,
+        "longitude": -80.183005,
+        "broker_name": "Coldwell Banker Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/ffbc2996803ab9cbb00ca21cbbfe4a2c-p_e.jpg",
+            "path": "full/43830245.jpg",
+            "checksum": "ab641c262521b610068350224605bcb6"
+        }]
+    },
+    {
+        "id": "44284059",
+        "image_urls": ["https://photos.zillowstatic.com/fp/9479831b3fc3252cfb8fe7a440b94336-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/8280-SW-102nd-St-Miami-FL-33156/44284059_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$1,875,000",
+        "address": "8280 SW 102nd St, Miami, FL 33156",
+        "beds": 6,
+        "baths": 4.0,
+        "area_sqft": 3918,
+        "latitude": 25.675214,
+        "longitude": -80.329091,
+        "broker_name": "Coldwell Banker Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/9479831b3fc3252cfb8fe7a440b94336-p_e.jpg",
+            "path": "full/44284059.jpg",
+            "checksum": "fc7c3927f67ddc8e035f5cd9ff2d4e56"
+        }]
+    },
+    {
+        "id": "68969308",
+        "image_urls": ["https://photos.zillowstatic.com/fp/a7c49cec7fcff3dd8133e8af0c4f855b-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/11868-SW-80th-Ter-Miami-FL-33183/68969308_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "Townhouse for sale",
+        "price": "$469,000",
+        "address": "11868 SW 80th Ter, Miami, FL 33183",
+        "beds": 4,
+        "baths": 3.0,
+        "area_sqft": 2152,
+        "latitude": 25.69305,
+        "longitude": -80.385477,
+        "broker_name": "Galiano Realty Group",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/a7c49cec7fcff3dd8133e8af0c4f855b-p_e.jpg",
+            "path": "full/68969308.jpg",
+            "checksum": "3821af8b8e57d7bdef3dcba7f4e92e04"
+        }]
+    },
+    {
+        "id": "44326236",
+        "image_urls": ["https://photos.zillowstatic.com/fp/ba25e0b418a2b3093db601b7d87e155b-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/11830-SW-104th-Ln-Miami-FL-33186/44326236_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$565,000",
+        "address": "11830 SW 104th Ln, Miami, FL 33186",
+        "beds": 4,
+        "baths": 3.0,
+        "area_sqft": 2275,
+        "latitude": 25.670311,
+        "longitude": -80.387449,
+        "broker_name": "Platinum Plus Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/ba25e0b418a2b3093db601b7d87e155b-p_e.jpg",
+            "path": "full/44326236.jpg",
+            "checksum": "f981b995cb5aa2ad950fa14e24dc36ce"
+        }]
+    },
+    {
+        "id": "250760894",
+        "image_urls": ["https://photos.zillowstatic.com/fp/bdd9dffd23fb3a08988e3ab29cd0064e-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/9981-SW-118th-Pl-Miami-FL-33186/250760894_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "Townhouse for sale",
+        "price": "$340,000",
+        "address": "9981 SW 118th Pl, Miami, FL 33186",
+        "beds": 2,
+        "baths": 2.0,
+        "area_sqft": 1250,
+        "latitude": 25.674884,
+        "longitude": -80.387023,
+        "broker_name": "Compass Florida, LLC",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/bdd9dffd23fb3a08988e3ab29cd0064e-p_e.jpg",
+            "path": "full/250760894.jpg",
+            "checksum": "f926521460b83ce826017179cc2ffc31"
+        }]
+    },
+    {
+        "id": "43866356",
+        "image_urls": ["https://photos.zillowstatic.com/fp/5becbaeda2fe1236a426e9ba36325e92-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/501-SW-1st-St-APT-607-Miami-FL-33130/43866356_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "Condo for sale",
+        "price": "$198,000",
+        "address": "501 SW 1st St APT 607, Miami, FL 33130",
+        "beds": 2,
+        "baths": 1.0,
+        "area_sqft": 789,
+        "latitude": 25.773192,
+        "longitude": -80.203083,
+        "broker_name": "Cedano Realty Advisors LLC",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/5becbaeda2fe1236a426e9ba36325e92-p_e.jpg",
+            "path": "full/43866356.jpg",
+            "checksum": "27d938e341751f1267f8063eca355e8e"
+        }]
+    },
+    {
+        "id": "43852212",
+        "image_urls": ["https://photos.zillowstatic.com/fp/4a5411be423a17c3878eab66714261ae-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/1441-SW-11th-Ter-Miami-FL-33135/43852212_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$1,500,000",
+        "address": "1441 SW 11th Ter, Miami, FL 33135",
+        "beds": 3,
+        "baths": 2.0,
+        "area_sqft": 2062,
+        "latitude": 25.762772,
+        "longitude": -80.219278,
+        "broker_name": "Graber Realty Group LLC",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/4a5411be423a17c3878eab66714261ae-p_e.jpg",
+            "path": "full/43852212.jpg",
+            "checksum": "2c69372632bc27678555bc5242a37b61"
+        }]
+    },
+    {
+        "id": "44284579",
+        "image_urls": ["https://photos.zillowstatic.com/fp/3ebd7453807833a5aadbfdf9763ba991-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/9345-SW-128th-St-Miami-FL-33176/44284579_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$1,579,000",
+        "address": "9345 SW 128th St, Miami, FL 33176",
+        "beds": 5,
+        "baths": 5.0,
+        "area_sqft": 3508,
+        "latitude": 25.651918,
+        "longitude": -80.345296,
+        "broker_name": "Compass Florida LLC",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/3ebd7453807833a5aadbfdf9763ba991-p_e.jpg",
+            "path": "full/44284579.jpg",
+            "checksum": "b20f70c7045b46ed9d2a1fb67e9a3751"
+        }]
+    },
+    {
+        "id": "44288483",
+        "image_urls": ["https://photos.zillowstatic.com/fp/ca75c10e20811d5474a54b693d128396-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/Miami-FL-33176/44288483_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$399,900",
+        "address": "(undisclosed Address), Miami, FL 33176",
+        "beds": 4,
+        "baths": 3.0,
+        "area_sqft": 936,
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/ca75c10e20811d5474a54b693d128396-p_e.jpg",
+            "path": "full/44288483.jpg",
+            "checksum": "41b3b8815f5d938eca88f8600c0f878d"
+        }]
+    },
+    {
+        "id": "72571573",
+        "image_urls": ["https://photos.zillowstatic.com/fp/e7f11acfe551f62fc681a807035e9d40-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/1374-S-Venetian-Way-Miami-Beach-FL-33139/72571573_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$21,495,000",
+        "address": "1374 S Venetian Way, Miami Beach, FL 33139",
+        "beds": 7,
+        "baths": 9.0,
+        "area_sqft": 7886,
+        "latitude": 25.789809,
+        "longitude": -80.167347,
+        "broker_name": "One Sotheby's International Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/e7f11acfe551f62fc681a807035e9d40-p_e.jpg",
+            "path": "full/72571573.jpg",
+            "checksum": "61738dcb7c0dbe14dd6eea2a26a4c775"
+        }]
+    },
+    {
+        "id": "43864493",
+        "image_urls": ["https://photos.zillowstatic.com/fp/c21b09c453cd4fc8d10f4dea1fc1194b-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/3769-Stewart-Ave-Miami-FL-33133/43864493_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$11,900,000",
+        "address": "3769 Stewart Ave, Miami, FL 33133",
+        "beds": 6,
+        "baths": 7.0,
+        "area_sqft": 7409,
+        "latitude": 25.711244,
+        "longitude": -80.25409,
+        "broker_name": "Douglas Elliman",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/c21b09c453cd4fc8d10f4dea1fc1194b-p_e.jpg",
+            "path": "full/43864493.jpg",
+            "checksum": "974870af86822ea276b40a01b01a7397"
+        }]
+    },
+    {
+        "id": "44190929",
+        "image_urls": ["https://photos.zillowstatic.com/fp/194415af1ff4e3f1a2efec5ce0805a4a-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/8360-SW-25th-St-Miami-FL-33155/44190929_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$529,000",
+        "address": "8360 SW 25th St, Miami, FL 33155",
+        "beds": 3,
+        "baths": 2.0,
+        "area_sqft": 1948,
+        "latitude": 25.745745,
+        "longitude": -80.331281,
+        "broker_name": "Keller Williams Capital Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/194415af1ff4e3f1a2efec5ce0805a4a-p_e.jpg",
+            "path": "full/44190929.jpg",
+            "checksum": "d1510a9bbfa52193767a14561dadc93b"
+        }]
+    },
+    {
+        "id": "43839698",
+        "image_urls": ["https://photos.zillowstatic.com/fp/c91a8a7001b8658ad2391ff76f2e37b7-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/2370-SW-5th-St-Miami-FL-33135/43839698_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$559,000",
+        "address": "2370 SW 5th St, Miami, FL 33135",
+        "beds": 3,
+        "baths": 2.0,
+        "area_sqft": 1865,
+        "latitude": 25.767609,
+        "longitude": -80.234187,
+        "broker_name": "Florida Capital Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/c91a8a7001b8658ad2391ff76f2e37b7-p_e.jpg",
+            "path": "full/43839698.jpg",
+            "checksum": "1d554dda85ec93510fc738aed0bdeea2"
+        }]
+    },
+    {
+        "id": "44225938",
+        "image_urls": ["https://photos.zillowstatic.com/fp/d341a6bfeb4180d9ae7075a8c36a5d26-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/5030-Davis-Rd-Miami-FL-33143/44225938_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$8,900,000",
+        "address": "5030 Davis Rd, Miami, FL 33143",
+        "beds": 7,
+        "baths": 9.0,
+        "area_sqft": 8906,
+        "latitude": 25.696877,
+        "longitude": -80.275443,
+        "broker_name": "Coldwell Banker Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/d341a6bfeb4180d9ae7075a8c36a5d26-p_e.jpg",
+            "path": "full/44225938.jpg",
+            "checksum": "020309e85e6b9601f14cfc34f8b46320"
+        }]
+    },
+    {
+        "id": "92442054",
+        "image_urls": ["https://photos.zillowstatic.com/fp/d039ec1c42f862b43f8284daa772635a-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/1840-S-Bayshore-Ln-Miami-FL-33133/92442054_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$10,950,000",
+        "address": "1840 S Bayshore Ln, Miami, FL 33133",
+        "beds": 6,
+        "baths": 7.0,
+        "area_sqft": 12863,
+        "latitude": 25.736834,
+        "longitude": -80.22203,
+        "broker_name": "Compass Florida, LLC",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/d039ec1c42f862b43f8284daa772635a-p_e.jpg",
+            "path": "full/92442054.jpg",
+            "checksum": "93341fe3e474e7625522b761130d0d6f"
+        }]
+    },
+    {
+        "id": "43856306",
+        "image_urls": ["https://photos.zillowstatic.com/fp/5ed8d0bb7ea5dd7ac1982b07429a026c-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/2550-Overbrook-St-Miami-FL-33133/43856306_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$3,350,000",
+        "address": "2550 Overbrook St, Miami, FL 33133",
+        "beds": 4,
+        "baths": 5.0,
+        "area_sqft": 3278,
+        "latitude": 25.739053,
+        "longitude": -80.235879,
+        "broker_name": "One Sotheby's International Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/5ed8d0bb7ea5dd7ac1982b07429a026c-p_e.jpg",
+            "path": "full/43856306.jpg",
+            "checksum": "23c3c05647f9f88083c7387c2b4fb5b4"
+        }]
+    },
+    {
+        "id": "44188720",
+        "image_urls": ["https://photos.zillowstatic.com/fp/54eb9076bdee3e63f634832cb6b9eca1-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/3745-SW-60th-Pl-Miami-FL-33155/44188720_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$764,900",
+        "address": "3745 SW 60th Pl, Miami, FL 33155",
+        "beds": 3,
+        "baths": 3.0,
+        "area_sqft": 2164,
+        "latitude": 25.736185,
+        "longitude": -80.292911,
+        "broker_name": "Keller Williams Capital Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/54eb9076bdee3e63f634832cb6b9eca1-p_e.jpg",
+            "path": "full/44188720.jpg",
+            "checksum": "4e4de437582c8dfdbea389d0ba2c8245"
+        }]
+    },
+    {
+        "id": "70775180",
+        "image_urls": ["https://photos.zillowstatic.com/fp/4572fe85fcaed5aa164cfbca81f15029-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/234-NE-3rd-St-APT-2209-Miami-FL-33132/70775180_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "Condo for sale",
+        "price": "$210,000",
+        "address": "234 NE 3rd St APT 2209, Miami, FL 33132",
+        "beds": 1,
+        "baths": 1.0,
+        "area_sqft": 625,
+        "latitude": 25.776889,
+        "longitude": -80.189663,
+        "broker_name": "Red Tie Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/4572fe85fcaed5aa164cfbca81f15029-p_e.jpg",
+            "path": "full/70775180.jpg",
+            "checksum": "cc575b60c8e8eb9b120c59e512de2822"
+        }]
+    },
+    {
+        "id": "331696423",
+        "image_urls": ["https://photos.zillowstatic.com/fp/8eeea63fc477b2b45e1aeecda4cb98d8-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/1000-Brickell-Plz-UPH6201-Miami-FL-33131/331696423_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "New construction",
+        "price": "$25,000,000",
+        "address": "1000 Brickell Plz #UPH6201, Miami, FL 33131",
+        "beds": 6,
+        "baths": 9.0,
+        "area_sqft": 7855,
+        "latitude": 25.764447,
+        "longitude": -80.192524,
+        "broker_name": "Bespoke Real Estate Florida LLC",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/8eeea63fc477b2b45e1aeecda4cb98d8-p_e.jpg",
+            "path": "full/331696423.jpg",
+            "checksum": "bc50a9be30abbb3509dc22195231ac5e"
+        }]
+    },
+    {
+        "id": "43853259",
+        "image_urls": ["https://photos.zillowstatic.com/fp/888ba9df71d4b6d8e3ec8ebcafca104e-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/1795-SW-14th-Ave-Miami-FL-33145/43853259_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$850,000",
+        "address": "1795 SW 14th Ave, Miami, FL 33145",
+        "beds": 4,
+        "baths": 3.0,
+        "area_sqft": 2159,
+        "latitude": 25.755537,
+        "longitude": -80.21797,
+        "broker_name": "Luxe Properties",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/888ba9df71d4b6d8e3ec8ebcafca104e-p_e.jpg",
+            "path": "full/43853259.jpg",
+            "checksum": "907e333da52250f85358a1b2300ca17d"
+        }]
+    },
+    {
+        "id": "44186158",
+        "image_urls": ["https://photos.zillowstatic.com/fp/e5ea4d73a248cb99f8ea51983e36d5b0-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/6040-SW-17th-St-Miami-FL-33155/44186158_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$399,999",
+        "address": "6040 SW 17th St, Miami, FL 33155",
+        "beds": 3,
+        "baths": 2.0,
+        "area_sqft": 2087,
+        "latitude": 25.754618,
+        "longitude": -80.293417,
+        "broker_name": "BHHS EWM Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/e5ea4d73a248cb99f8ea51983e36d5b0-p_e.jpg",
+            "path": "full/44186158.jpg",
+            "checksum": "a501c37aaf156b9e77faf259c6481f68"
+        }]
+    },
+    {
+        "id": "44328549",
+        "image_urls": ["https://photos.zillowstatic.com/fp/61f03c8c85630aa8f325b70537ed8758-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/14233-SW-152nd-Ct-Miami-FL-33196/44328549_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$590,000",
+        "address": "14233 SW 152nd Ct, Miami, FL 33196",
+        "beds": 4,
+        "baths": 3.0,
+        "area_sqft": 2142,
+        "latitude": 25.634289,
+        "longitude": -80.439938,
+        "broker_name": "One Stop Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/61f03c8c85630aa8f325b70537ed8758-p_e.jpg",
+            "path": "full/44328549.jpg",
+            "checksum": "61d30642d712d208fd4f3cd75118164b"
+        }]
+    },
+    {
+        "id": "2069495058",
+        "image_urls": ["https://photos.zillowstatic.com/fp/5356249f152c28d792857a8b009d0681-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/11955-SW-95th-St-Miami-FL-33186/2069495058_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "New construction",
+        "price": "$2,700,000",
+        "address": "11955 SW 95th St, Miami, FL 33186",
+        "beds": 5,
+        "baths": 5.0,
+        "area_sqft": 3556,
+        "latitude": 25.65876,
+        "longitude": -80.34896,
+        "broker_name": "Lifestyle International Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/5356249f152c28d792857a8b009d0681-p_e.jpg",
+            "path": "full/2069495058.jpg",
+            "checksum": "34ea3aadbd47f99b1f91389e20178465"
+        }]
+    },
+    {
+        "id": "44181488",
+        "image_urls": ["https://photos.zillowstatic.com/fp/e2423d1d921ee5cdba6fa48c0a029c26-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/9650-SW-17th-St-Miami-FL-33165/44181488_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$679,900",
+        "address": "9650 SW 17th St, Miami, FL 33165",
+        "beds": 4,
+        "baths": 2.0,
+        "area_sqft": 1862,
+        "latitude": 25.75285,
+        "longitude": -80.351106,
+        "broker_name": "Brickell First Invest Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/e2423d1d921ee5cdba6fa48c0a029c26-p_e.jpg",
+            "path": "full/44181488.jpg",
+            "checksum": "56f498662782af8e7abad7f3db99dc74"
+        }]
+    },
+    {
+        "id": "44284017",
+        "image_urls": ["https://photos.zillowstatic.com/fp/f386c2cb6cfd20cce3614f4e4d066232-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/8280-SW-104th-St-Miami-FL-33156/44284017_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$899,000",
+        "address": "8280 SW 104th St, Miami, FL 33156",
+        "beds": 3,
+        "baths": 3.0,
+        "area_sqft": 1904,
+        "latitude": 25.673432,
+        "longitude": -80.328916,
+        "broker_name": "ListWithFreedom.com",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/f386c2cb6cfd20cce3614f4e4d066232-p_e.jpg",
+            "path": "full/44284017.jpg",
+            "checksum": "0f5205c7ac7dd4b5eb826fa9d711fb39"
+        }]
+    },
+    {
+        "id": "43837364",
+        "image_urls": ["https://photos.zillowstatic.com/fp/48b738fdc6871a56b81c9762f5bc58e4-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/6820-W-Flagler-St-APT-204-Miami-FL-33144/43837364_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "Condo for sale",
+        "price": "$175,000",
+        "address": "6820 W Flagler St APT 204, Miami, FL 33144",
+        "beds": 2,
+        "baths": 2.0,
+        "area_sqft": 813,
+        "latitude": 25.770097,
+        "longitude": -80.306668,
+        "broker_name": "Keller Williams Realty International Lifestyles",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/48b738fdc6871a56b81c9762f5bc58e4-p_e.jpg",
+            "path": "full/43837364.jpg",
+            "checksum": "e49b081959607830974efe58eb9c6a5d"
+        }]
+    },
+    {
+        "id": "72578391",
+        "image_urls": ["https://photos.zillowstatic.com/fp/315194068f1eabea7b6e902533cc6d22-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/218-SE-14th-St-APT-2207-Miami-FL-33131/72578391_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "Condo for sale",
+        "price": "$380,000",
+        "address": "218 SE 14th St APT 2207, Miami, FL 33131",
+        "beds": 1,
+        "baths": 1.0,
+        "area_sqft": 811,
+        "latitude": 25.759646,
+        "longitude": -80.19019,
+        "broker_name": "Compass Florida, LLC",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/315194068f1eabea7b6e902533cc6d22-p_e.jpg",
+            "path": "full/72578391.jpg",
+            "checksum": "1830de9a4df269f9a8218dd0888899d7"
+        }]
+    },
+    {
+        "id": "43831393",
+        "image_urls": ["https://photos.zillowstatic.com/fp/ba76be0947b4df59e1057d835587aa37-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/600-NE-36th-St-APT-1210-Miami-FL-33137/43831393_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "Condo for sale",
+        "price": "$338,000",
+        "address": "600 NE 36th St APT 1210, Miami, FL 33137",
+        "beds": 2,
+        "baths": 2.0,
+        "area_sqft": 955,
+        "latitude": 25.810583,
+        "longitude": -80.186527,
+        "broker_name": "The Keyes Company",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/ba76be0947b4df59e1057d835587aa37-p_e.jpg",
+            "path": "full/43831393.jpg",
+            "checksum": "67787e13689c7d87d3b8b10269d07dbc"
+        }]
+    },
+    {
+        "id": "44282981",
+        "image_urls": ["https://photos.zillowstatic.com/fp/4d01dad559aa18af72dcbbe4acab59c4-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/10431-SW-110th-St-Miami-FL-33176/44282981_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$589,000",
+        "address": "10431 SW 110th St, Miami, FL 33176",
+        "beds": 3,
+        "baths": 2.0,
+        "area_sqft": 1593,
+        "latitude": 25.667166,
+        "longitude": -80.364183,
+        "broker_name": "One Stop Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/4d01dad559aa18af72dcbbe4acab59c4-p_e.jpg",
+            "path": "full/44282981.jpg",
+            "checksum": "8e0bf90fe250e7c62fe07082efbcf9d6"
+        }]
+    },
+    {
+        "id": "43872789",
+        "image_urls": ["https://photos.zillowstatic.com/fp/6c90062f73c042fbf557a451f4fbc3ba-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/540-Brickell-Key-Dr-APT-1013-Miami-FL-33131/43872789_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "Foreclosure",
+        "price": "$595,000",
+        "address": "540 Brickell Key Dr APT 1013, Miami, FL 33131",
+        "beds": 3,
+        "baths": 3.0,
+        "area_sqft": 1560,
+        "latitude": 25.768096,
+        "longitude": -80.183847,
+        "broker_name": "Julies Realty, LLC",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/6c90062f73c042fbf557a451f4fbc3ba-p_e.jpg",
+            "path": "full/43872789.jpg",
+            "checksum": "c3862ac2dbd3dbfedb07b7a41a90fe57"
+        }]
+    },
+    {
+        "id": "43827703",
+        "image_urls": ["https://photos.zillowstatic.com/fp/639589c419478c14e65c98e258aa4692-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/7301-Belle-Meade-Island-Dr-Miami-FL-33138/43827703_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$19,500,000",
+        "address": "7301 Belle Meade Island Dr, Miami, FL 33138",
+        "beds": 11,
+        "baths": 11.0,
+        "area_sqft": 7664,
+        "latitude": 25.842037,
+        "longitude": -80.174662,
+        "broker_name": "One Sotheby's International Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/639589c419478c14e65c98e258aa4692-p_e.jpg",
+            "path": "full/43827703.jpg",
+            "checksum": "86d03eb50dac0f81a2d7f673b5724c7f"
+        }]
+    },
+    {
+        "id": "155809108",
+        "image_urls": ["https://photos.zillowstatic.com/fp/f3579b5f93aa601d9ed1451f33ce858c-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/600-SW-19th-Rd-Miami-FL-33129/155809108_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$949,000",
+        "address": "600 SW 19th Rd, Miami, FL 33129",
+        "beds": 3,
+        "baths": 2.0,
+        "area_sqft": 1918,
+        "latitude": 25.762356,
+        "longitude": -80.205175,
+        "broker_name": "South Florida Investments",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/f3579b5f93aa601d9ed1451f33ce858c-p_e.jpg",
+            "path": "full/155809108.jpg",
+            "checksum": "d8d1d3b5b102aba13382a6ea8e58cdb9"
+        }]
+    },
+    {
+        "id": "82069632",
+        "image_urls": ["https://photos.zillowstatic.com/fp/659f84e0b49e9bc938aae945928acac6-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/520-NE-29th-St-1201-Miami-FL-33137/82069632_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "Condo for sale",
+        "price": "$389,000",
+        "address": "520 NE 29th St #1201, Miami, FL 33137",
+        "beds": 2,
+        "baths": 2.0,
+        "area_sqft": 1065,
+        "latitude": 25.804137,
+        "longitude": -80.186245,
+        "broker_name": "Mariana Martinez Real Estate Broker",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/659f84e0b49e9bc938aae945928acac6-p_e.jpg",
+            "path": "full/82069632.jpg",
+            "checksum": "e368cfa0b22d3ee0f85bcbc37c8a718d"
+        }]
+    },
+    {
+        "id": "43862520",
+        "image_urls": ["https://photos.zillowstatic.com/fp/9f00165113d4a209ea07deaf4e053db1-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/2960-Jackson-Ave-Miami-FL-33133/43862520_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "Townhouse for sale",
+        "price": "$567,000",
+        "address": "2960 Jackson Ave, Miami, FL 33133",
+        "beds": 2,
+        "baths": 3.0,
+        "area_sqft": 1669,
+        "latitude": 25.734214,
+        "longitude": -80.240956,
+        "broker_name": "Padovan Realty Corp.",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/9f00165113d4a209ea07deaf4e053db1-p_e.jpg",
+            "path": "full/43862520.jpg",
+            "checksum": "22bb7eae2604d3c2e635fc54720d9524"
+        }]
+    },
+    {
+        "id": "44201572",
+        "image_urls": ["https://photos.zillowstatic.com/fp/f0e24f28cb6c0e3ea4d38776f4ea3c3f-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/5240-SW-97th-Ave-Miami-FL-33165/44201572_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$499,000",
+        "address": "5240 SW 97th Ave, Miami, FL 33165",
+        "beds": 5,
+        "baths": 3.0,
+        "area_sqft": 3241,
+        "latitude": 25.719531,
+        "longitude": -80.35134,
+        "broker_name": "My City Realty, Inc.",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/f0e24f28cb6c0e3ea4d38776f4ea3c3f-p_e.jpg",
+            "path": "full/44201572.jpg",
+            "checksum": "2452e9ec3ffe7a68fbff3dd4a0d60c32"
+        }]
+    },
+    {
+        "id": "2110030718",
+        "image_urls": ["https://photos.zillowstatic.com/fp/1ba22d093d55149beec3de78dc192eeb-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/3643-Loquat-Ave-Coconut-Grove-FL-33133/2110030718_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$599,000",
+        "address": "3643 Loquat Ave, Coconut Grove, FL 33133",
+        "beds": 2,
+        "baths": 1.0,
+        "area_sqft": 820,
+        "latitude": 25.723755,
+        "longitude": -80.25188,
+        "broker_name": "One Sotheby's International Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/1ba22d093d55149beec3de78dc192eeb-p_e.jpg",
+            "path": "full/2110030718.jpg",
+            "checksum": "c69b65e6bcf6508723ce1fbb71c175b4"
+        }]
+    },
+    {
+        "id": "43836346",
+        "image_urls": ["https://photos.zillowstatic.com/fp/e62b51f4f788c51ead20bf66a2c1061b-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/6580-W-Flagler-St-APT-101-Miami-FL-33144/43836346_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "Townhouse for sale",
+        "price": "$150,000",
+        "address": "6580 W Flagler St APT 101, Miami, FL 33144",
+        "beds": 1,
+        "baths": 2.0,
+        "area_sqft": 734,
+        "latitude": 25.770276,
+        "longitude": -80.302932,
+        "broker_name": "Realzun Commercial Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/e62b51f4f788c51ead20bf66a2c1061b-p_e.jpg",
+            "path": "full/43836346.jpg",
+            "checksum": "8343fd0122db465520baca344853c2e5"
+        }]
+    },
+    {
+        "id": "70763213",
+        "image_urls": ["https://photos.zillowstatic.com/fp/e75f3e9bcb3c9499c81fb84e45239d13-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/770-Claughton-Island-Dr-APT-403-Miami-FL-33131/70763213_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "Condo for sale",
+        "price": "$370,000",
+        "address": "770 Claughton Island Dr APT 403, Miami, FL 33131",
+        "beds": 2,
+        "baths": 2.0,
+        "area_sqft": 968,
+        "latitude": 25.766069,
+        "longitude": -80.184619,
+        "broker_name": "Coldwell Banker Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/e75f3e9bcb3c9499c81fb84e45239d13-p_e.jpg",
+            "path": "full/70763213.jpg",
+            "checksum": "0c2c2291a4eac4cb8e028f2721ecd1b0"
+        }]
+    },
+    {
+        "id": "43863579",
+        "image_urls": ["https://photos.zillowstatic.com/fp/00b197d0f459c1f53dfcb46b4fdd9ee8-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/3440-Poinciana-Ave-Miami-FL-33133/43863579_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$10,900,000",
+        "address": "3440 Poinciana Ave, Miami, FL 33133",
+        "beds": 5,
+        "baths": 6.0,
+        "area_sqft": 6505,
+        "latitude": 25.71931,
+        "longitude": -80.248241,
+        "broker_name": "BHHS EWM Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/00b197d0f459c1f53dfcb46b4fdd9ee8-p_e.jpg",
+            "path": "full/43863579.jpg",
+            "checksum": "e81c38321c73c7cdc1695698e5dabae6"
+        }]
+    },
+    {
+        "id": "44184516",
+        "image_urls": ["https://photos.zillowstatic.com/fp/f40987fe08e2d3dff980ac88ef4d2ead-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/2125-SW-76th-Ave-Miami-FL-33155/44184516_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$465,000",
+        "address": "2125 SW 76th Ave, Miami, FL 33155",
+        "beds": 3,
+        "baths": 2.0,
+        "area_sqft": 1025,
+        "latitude": 25.750986,
+        "longitude": -80.317789,
+        "broker_name": "World Star Realty Group",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/f40987fe08e2d3dff980ac88ef4d2ead-p_e.jpg",
+            "path": "full/44184516.jpg",
+            "checksum": "e15321e396f43d12050658449d451778"
+        }]
+    },
+    {
+        "id": "43861380",
+        "image_urls": ["https://photos.zillowstatic.com/fp/d02f25c6fd7679981524dc6bc7a88678-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/3674-Royal-Palm-Ave-Miami-FL-33133/43861380_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "New construction",
+        "price": "$3,250,000",
+        "address": "3674 Royal Palm Ave, Miami, FL 33133",
+        "beds": 4,
+        "baths": 5.0,
+        "area_sqft": 3294,
+        "latitude": 25.720926,
+        "longitude": -80.25284,
+        "broker_name": "One Sotheby's International Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/d02f25c6fd7679981524dc6bc7a88678-p_e.jpg",
+            "path": "full/43861380.jpg",
+            "checksum": "5b947c8e20af5eb344d35c4c74b7a431"
+        }]
+    },
+    {
+        "id": "43851043",
+        "image_urls": ["https://photos.zillowstatic.com/fp/2399ae534e7f7753976d4026042b67de-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/2207-SW-16th-Ter-Miami-FL-33145/43851043_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$650,000",
+        "address": "2207 SW 16th Ter, Miami, FL 33145",
+        "beds": 3,
+        "baths": 3.0,
+        "area_sqft": 1846,
+        "latitude": 25.757594,
+        "longitude": -80.231027,
+        "broker_name": "Iconic Miami Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/2399ae534e7f7753976d4026042b67de-p_e.jpg",
+            "path": "full/43851043.jpg",
+            "checksum": "8b1048dd162ff510e9b820cbb55c8507"
+        }]
+    },
+    {
+        "id": "43864740",
+        "image_urls": ["https://photos.zillowstatic.com/fp/28b17c0c85e2f7c3ddd4f65c0ca40ca8-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/375-SW-20th-Rd-Miami-FL-33129/43864740_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$897,000",
+        "address": "375 SW 20th Rd, Miami, FL 33129",
+        "beds": 3,
+        "baths": 3.0,
+        "area_sqft": 1454,
+        "latitude": 25.760161,
+        "longitude": -80.203825,
+        "broker_name": "InvesTeam Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/28b17c0c85e2f7c3ddd4f65c0ca40ca8-p_e.jpg",
+            "path": "full/43864740.jpg",
+            "checksum": "f821485367ba52052b586a1ac3de6d71"
+        }]
+    },
+    {
+        "id": "44285268",
+        "image_urls": ["https://photos.zillowstatic.com/fp/9c35d87cac50178e325c33470f8f671c-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/9144-SW-132nd-Ln-Miami-FL-33176/44285268_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$394,500",
+        "address": "9144 SW 132nd Ln, Miami, FL 33176",
+        "beds": 2,
+        "baths": 2.0,
+        "area_sqft": 1205,
+        "latitude": 25.647195,
+        "longitude": -80.342155,
+        "broker_name": "Real Estate TeamMates",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/9c35d87cac50178e325c33470f8f671c-p_e.jpg",
+            "path": "full/44285268.jpg",
+            "checksum": "f6a126aef5fe016c1e820bf70a4ebc32"
+        }]
+    },
+    {
+        "id": "44288830",
+        "image_urls": ["https://photos.zillowstatic.com/fp/83da676d2951bc8f82431b75315a38e8-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/11601-SW-141st-St-Miami-FL-33176/44288830_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$423,900",
+        "address": "11601 SW 141st St, Miami, FL 33176",
+        "beds": 4,
+        "baths": 3.0,
+        "area_sqft": 1538,
+        "latitude": 25.637633,
+        "longitude": -80.381833,
+        "broker_name": "Blue Lighthouse Realty, INC",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/83da676d2951bc8f82431b75315a38e8-p_e.jpg",
+            "path": "full/44288830.jpg",
+            "checksum": "cc67210ac4b36ee6e1c197c2c42a0063"
+        }]
+    },
+    {
+        "id": "44190914",
+        "image_urls": ["https://photos.zillowstatic.com/fp/7f5a5167fdea351a994c3b31ab69f842-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/2401-SW-84th-Ave-Miami-FL-33155/44190914_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$450,000",
+        "address": "2401 SW 84th Ave, Miami, FL 33155",
+        "beds": 3,
+        "baths": 2.0,
+        "area_sqft": 1287,
+        "latitude": 25.747352,
+        "longitude": -80.331262,
+        "broker_name": "Bowen Realty, Inc./WPB",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/7f5a5167fdea351a994c3b31ab69f842-p_e.jpg",
+            "path": "full/44190914.jpg",
+            "checksum": "375930d042fe4ae8ad6540750611b1f9"
+        }]
+    },
+    {
+        "id": "44187665",
+        "image_urls": ["https://photos.zillowstatic.com/fp/07da569e07c4a9773e0d62e9e1832718-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/6408-SW-32nd-St-Miami-FL-33155/44187665_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$649,999",
+        "address": "6408 SW 32nd St, Miami, FL 33155",
+        "beds": 2,
+        "baths": 2.0,
+        "area_sqft": 1281,
+        "latitude": 25.740188,
+        "longitude": -80.299733,
+        "broker_name": "LoKation",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/07da569e07c4a9773e0d62e9e1832718-p_e.jpg",
+            "path": "full/44187665.jpg",
+            "checksum": "2e87dafe09391fe24db42fe2df3eedeb"
+        }]
+    },
+    {
+        "id": "43839544",
+        "image_urls": ["https://photos.zillowstatic.com/fp/1c17fc4252917d54fbc355d77309b93c-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/2360-SW-2nd-St-Miami-FL-33135/43839544_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$599,000",
+        "address": "2360 SW 2nd St, Miami, FL 33135",
+        "beds": 4,
+        "baths": 2.0,
+        "area_sqft": 1669,
+        "latitude": 25.770485,
+        "longitude": -80.234048,
+        "broker_name": "Florida Capital Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/1c17fc4252917d54fbc355d77309b93c-p_e.jpg",
+            "path": "full/43839544.jpg",
+            "checksum": "f66f20b65207a111d6a81ba81e98d255"
+        }]
+    },
+    {
+        "id": "70765613",
+        "image_urls": ["https://photos.zillowstatic.com/fp/cf982a5adea814642812bb546c78fba8-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/13324-SW-128th-Path-Miami-FL-33186/70765613_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "Townhouse for sale",
+        "price": "$360,000",
+        "address": "13324 SW 128th Path, Miami, FL 33186",
+        "beds": 3,
+        "baths": 3.0,
+        "area_sqft": 1564,
+        "latitude": 25.644007,
+        "longitude": -80.402079,
+        "broker_name": "Lifestyle International Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/cf982a5adea814642812bb546c78fba8-p_e.jpg",
+            "path": "full/70765613.jpg",
+            "checksum": "e05323033a1c67db7b96872c983cc35a"
+        }]
+    },
+    {
+        "id": "44283216",
+        "image_urls": ["https://photos.zillowstatic.com/fp/c52435d03825f8a5b058da7782462655-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/9866-SW-111th-Ter-Miami-FL-33176/44283216_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$1,295,000",
+        "address": "9866 SW 111th Ter, Miami, FL 33176",
+        "beds": 5,
+        "baths": 4.0,
+        "area_sqft": 3843,
+        "latitude": 25.665852,
+        "longitude": -80.354615,
+        "broker_name": "One Sotheby's International Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/c52435d03825f8a5b058da7782462655-p_e.jpg",
+            "path": "full/44283216.jpg",
+            "checksum": "6e96f96520d72693f98b429f251bec46"
+        }]
+    },
+    {
+        "id": "44284533",
+        "image_urls": ["https://photos.zillowstatic.com/fp/349853da1483dc037d69dc68ec919635-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/8601-SW-123rd-St-Miami-FL-33156/44284533_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$850,000",
+        "address": "8601 SW 123rd St, Miami, FL 33156",
+        "beds": 5,
+        "baths": 3.0,
+        "area_sqft": 2476,
+        "latitude": 25.656024,
+        "longitude": -80.333724,
+        "broker_name": "Coldwell Banker Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/349853da1483dc037d69dc68ec919635-p_e.jpg",
+            "path": "full/44284533.jpg",
+            "checksum": "224cecb72514d998c934d3a5d58e450a"
+        }]
+    },
+    {
+        "id": "82420403",
+        "image_urls": ["https://photos.zillowstatic.com/fp/0e424494871565be9ce3a2ceb203973e-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/3451-NE-1st-Ave-APT-M0705-Miami-FL-33137/82420403_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "Condo for sale",
+        "price": "$455,000",
+        "address": "3451 NE 1st Ave APT M0705, Miami, FL 33137",
+        "beds": 2,
+        "baths": 3.0,
+        "area_sqft": 986,
+        "latitude": 25.809169,
+        "longitude": -80.192508,
+        "broker_name": "Graber Realty Group LLC",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/0e424494871565be9ce3a2ceb203973e-p_e.jpg",
+            "path": "full/82420403.jpg",
+            "checksum": "6ea4f5e55b48a7b7c04d7ff5feb44aa3"
+        }]
+    },
+    {
+        "id": "82238514",
+        "image_urls": ["https://photos.zillowstatic.com/fp/facbf6f6ff03466d3b004e63d954cdf5-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/50-Biscayne-Blvd-APT-701-Miami-FL-33132/82238514_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "Condo for sale",
+        "price": "$400,000",
+        "address": "50 Biscayne Blvd APT 701, Miami, FL 33132",
+        "beds": 2,
+        "baths": 2.0,
+        "area_sqft": 1108,
+        "latitude": 25.774815,
+        "longitude": -80.188211,
+        "broker_name": "Brokers, LLC",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/facbf6f6ff03466d3b004e63d954cdf5-p_e.jpg",
+            "path": "full/82238514.jpg",
+            "checksum": "ed4a84fcdc813eb0177bc613955a1ffc"
+        }]
+    },
+    {
+        "id": "2069523236",
+        "image_urls": ["https://photos.zillowstatic.com/fp/275127b3acfac2b35781603292de3285-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/2970-Jackson-Ave-0-Miami-FL-33133/2069523236_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "Townhouse for sale",
+        "price": "$643,000",
+        "address": "2970 Jackson Ave #0, Miami, FL 33133",
+        "beds": 2,
+        "baths": 3.0,
+        "area_sqft": 1669,
+        "latitude": 25.734128,
+        "longitude": -80.240967,
+        "broker_name": "Padovan Realty Corp.",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/275127b3acfac2b35781603292de3285-p_e.jpg",
+            "path": "full/2069523236.jpg",
+            "checksum": "5e68a8c54d68d753cbf47d8933bfa77a"
+        }]
+    },
+    {
+        "id": "43865528",
+        "image_urls": ["https://photos.zillowstatic.com/fp/e22712f1fa8f157f800eebd348b54ec2-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/2401-SW-9th-Ave-Miami-FL-33129/43865528_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$795,000",
+        "address": "2401 SW 9th Ave, Miami, FL 33129",
+        "beds": 3,
+        "baths": 2.0,
+        "area_sqft": 1427,
+        "latitude": 25.761077,
+        "longitude": -80.210607,
+        "broker_name": "MetroMiami Realty LLC",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/e22712f1fa8f157f800eebd348b54ec2-p_e.jpg",
+            "path": "full/43865528.jpg",
+            "checksum": "325ac6420d1b3229d6e60ea9e62e5823"
+        }]
+    },
+    {
+        "id": "44187467",
+        "image_urls": ["https://photos.zillowstatic.com/fp/ae2d86281173710792a3b6d92ebf4e1a-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/6501-SW-31st-St-Miami-FL-33155/44187467_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$699,000",
+        "address": "6501 SW 31st St, Miami, FL 33155",
+        "beds": 3,
+        "baths": 2.0,
+        "area_sqft": 1620,
+        "latitude": 25.741575,
+        "longitude": -80.301524,
+        "broker_name": "Cuadra Group LLC",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/ae2d86281173710792a3b6d92ebf4e1a-p_e.jpg",
+            "path": "full/44187467.jpg",
+            "checksum": "c6932013b775fce70b16b3587f8b8229"
+        }]
+    },
+    {
+        "id": "43865658",
+        "image_urls": ["https://photos.zillowstatic.com/fp/8da461fe7b9c05996c47470a02e055fd-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/780-SW-21st-Rd-Miami-FL-33129/43865658_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$1,390,000",
+        "address": "780 SW 21st Rd, Miami, FL 33129",
+        "beds": 4,
+        "baths": 4.0,
+        "area_sqft": 2073,
+        "latitude": 25.762623,
+        "longitude": -80.208017,
+        "broker_name": "The Corcoran Group",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/8da461fe7b9c05996c47470a02e055fd-p_e.jpg",
+            "path": "full/43865658.jpg",
+            "checksum": "da1b7718bd7fbc921a315c935397b57b"
+        }]
+    },
+    {
+        "id": "70775088",
+        "image_urls": ["https://photos.zillowstatic.com/fp/d56be73929e2f25bc5a5817bae2c349e-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/234-NE-3rd-St-APT-204-Miami-FL-33132/70775088_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "Condo for sale",
+        "price": "$210,000",
+        "address": "234 NE 3rd St APT 204, Miami, FL 33132",
+        "beds": 1,
+        "baths": 1.0,
+        "area_sqft": 784,
+        "latitude": 25.776889,
+        "longitude": -80.189663,
+        "broker_name": "Fortune International Realty B",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/d56be73929e2f25bc5a5817bae2c349e-p_e.jpg",
+            "path": "full/70775088.jpg",
+            "checksum": "d0ac875aac1f8dd439687ffb8d1d6e1c"
+        }]
+    },
+    {
+        "id": "44192327",
+        "image_urls": ["https://photos.zillowstatic.com/fp/27f624e2c88ae94104076be5e2324855-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/8510-SW-27th-St-Miami-FL-33155/44192327_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$499,000",
+        "address": "8510 SW 27th St, Miami, FL 33155",
+        "beds": 4,
+        "baths": 2.0,
+        "area_sqft": 1573,
+        "latitude": 25.745005,
+        "longitude": -80.333469,
+        "broker_name": "Real Estate Sales Force",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/27f624e2c88ae94104076be5e2324855-p_e.jpg",
+            "path": "full/44192327.jpg",
+            "checksum": "d3c021b10c51dd33bb37e8734c2f215b"
+        }]
+    },
+    {
+        "id": "60798763",
+        "image_urls": ["https://photos.zillowstatic.com/fp/9f703b1c53ede359c632d759c55a2f13-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/12848-SW-136th-Ter-Miami-FL-33186/60798763_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$795,000",
+        "address": "12848 SW 136th Ter, Miami, FL 33186",
+        "beds": 4,
+        "baths": 3.0,
+        "area_sqft": 2046,
+        "latitude": 25.640838,
+        "longitude": -80.401808,
+        "broker_name": "ListWithFreedom.com",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/9f703b1c53ede359c632d759c55a2f13-p_e.jpg",
+            "path": "full/60798763.jpg",
+            "checksum": "25bbe95fd5ae5d40475b2880cc608f0a"
+        }]
+    },
+    {
+        "id": "54697516",
+        "image_urls": ["https://photos.zillowstatic.com/fp/e3625fc107cd039c91704c99070530c9-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/13326-SW-152nd-St-APT-3302-Miami-FL-33177/54697516_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "Townhouse for sale",
+        "price": "$295,000",
+        "address": "13326 SW 152nd St APT 3302, Miami, FL 33177",
+        "beds": 3,
+        "baths": 2.0,
+        "area_sqft": 1130,
+        "latitude": 25.625721,
+        "longitude": -80.409235,
+        "broker_name": "Charles Rutenberg Realty Fort",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/e3625fc107cd039c91704c99070530c9-p_e.jpg",
+            "path": "full/54697516.jpg",
+            "checksum": "639657cb54c9045fcea1999d4ea19a5a"
+        }]
+    },
+    {
+        "id": "43827137",
+        "image_urls": ["https://photos.zillowstatic.com/fp/dfe6d14eb6e57473420c28e1e4ce0a73-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/724-NE-82nd-St-Miami-FL-33138/43827137_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$1,325,000",
+        "address": "724 NE 82nd St, Miami, FL 33138",
+        "beds": 3,
+        "baths": 3.0,
+        "area_sqft": 2282,
+        "latitude": 25.849995,
+        "longitude": -80.182159,
+        "broker_name": "The Corcoran Group",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/dfe6d14eb6e57473420c28e1e4ce0a73-p_e.jpg",
+            "path": "full/43827137.jpg",
+            "checksum": "efb8221028804a88de92727feef146ee"
+        }]
+    },
+    {
+        "id": "70773470",
+        "image_urls": ["https://photos.zillowstatic.com/fp/88ac31eea54bc1e6582f753cec4037c4-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/1720-NW-North-River-Dr-APT-507-Miami-FL-33125/70773470_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "Condo for sale",
+        "price": "$229,500",
+        "address": "1720 NW North River Dr APT 507, Miami, FL 33125",
+        "beds": 2,
+        "baths": 2.0,
+        "area_sqft": 899,
+        "latitude": 25.787029,
+        "longitude": -80.224729,
+        "broker_name": "Keller Williams Miami Beach Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/88ac31eea54bc1e6582f753cec4037c4-p_e.jpg",
+            "path": "full/70773470.jpg",
+            "checksum": "42fda3e49514f25292adacb04fe5715a"
+        }]
+    },
+    {
+        "id": "43833565",
+        "image_urls": ["https://photos.zillowstatic.com/fp/3c6d40aeefc04719cfea0ed9c2b89250-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/555-NE-15th-St-APT-12H-Miami-FL-33132/43833565_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "Condo for sale",
+        "price": "$289,000",
+        "address": "555 NE 15th St APT 12H, Miami, FL 33132",
+        "beds": 1,
+        "baths": 2.0,
+        "area_sqft": 800,
+        "latitude": 25.790185,
+        "longitude": -80.185697,
+        "broker_name": "Wholesale Realty of Miami, Inc",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/3c6d40aeefc04719cfea0ed9c2b89250-p_e.jpg",
+            "path": "full/43833565.jpg",
+            "checksum": "e07997fd71f42abdaddfd4fa58db6299"
+        }]
+    },
+    {
+        "id": "43820971",
+        "image_urls": ["https://photos.zillowstatic.com/fp/c114d8629704f2a0762662249b739c73-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/4301-NW-South-Tamiami-Canal-Dr-3-315-Miami-FL-33126/43820971_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "Condo for sale",
+        "price": "$169,900",
+        "address": "4301 NW South Tamiami Canal Dr #3-315, Miami, FL 33126",
+        "beds": 2,
+        "baths": 1.0,
+        "area_sqft": 750,
+        "latitude": 25.790634,
+        "longitude": -80.267134,
+        "broker_name": "Open Florida Realty, Inc.",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/c114d8629704f2a0762662249b739c73-p_e.jpg",
+            "path": "full/43820971.jpg",
+            "checksum": "37d7cc69a056e2fefa0bf17ab96d35a5"
+        }]
+    },
+    {
+        "id": "43826050",
+        "image_urls": ["https://photos.zillowstatic.com/fp/11452fadfe7092a9a1460e400555074b-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/1024-NW-North-River-Dr-Miami-FL-33136/43826050_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$1,500,000",
+        "address": "1024 NW North River Dr, Miami, FL 33136",
+        "beds": 3,
+        "baths": 3.0,
+        "area_sqft": 2110,
+        "latitude": 25.781894,
+        "longitude": -80.211706,
+        "broker_name": "Compass Florida, LLC",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/11452fadfe7092a9a1460e400555074b-p_e.jpg",
+            "path": "full/43826050.jpg",
+            "checksum": "027d5b74fb73b87036eafb1d6fa97f78"
+        }]
+    },
+    {
+        "id": "43852293",
+        "image_urls": ["https://photos.zillowstatic.com/fp/73045806948d6bc0cf70dfa88c650aec-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/1667-SW-13th-St-Miami-FL-33145/43852293_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$849,000",
+        "address": "1667 SW 13th St, Miami, FL 33145",
+        "beds": 4,
+        "baths": 3.0,
+        "area_sqft": 2210,
+        "latitude": 25.761126,
+        "longitude": -80.222051,
+        "broker_name": "Homelux International Realty, Inc.",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/73045806948d6bc0cf70dfa88c650aec-p_e.jpg",
+            "path": "full/43852293.jpg",
+            "checksum": "517683bb6b2d2aa3dbc67357d0410eb5"
+        }]
+    },
+    {
+        "id": "43829077",
+        "image_urls": ["https://photos.zillowstatic.com/fp/de2b7d8873c08fc9bce7ac351a014879-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/5901-N-Bayshore-Dr-Miami-FL-33137/43829077_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$13,750,000",
+        "address": "5901 N Bayshore Dr, Miami, FL 33137",
+        "beds": 5,
+        "baths": 7.0,
+        "area_sqft": 5229,
+        "latitude": 25.830479,
+        "longitude": -80.180349,
+        "broker_name": "BHHS EWM Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/de2b7d8873c08fc9bce7ac351a014879-p_e.jpg",
+            "path": "full/43829077.jpg",
+            "checksum": "b617ded1e19ad01b740d9992cc395fcf"
+        }]
+    },
+    {
+        "id": "60798458",
+        "image_urls": ["https://photos.zillowstatic.com/fp/546044758ffe2374c5d4a35560634b9a-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/15753-SW-146th-Ter-Miami-FL-33196/60798458_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$595,000",
+        "address": "15753 SW 146th Ter, Miami, FL 33196",
+        "beds": 4,
+        "baths": 3.0,
+        "area_sqft": 2062,
+        "latitude": 25.630919,
+        "longitude": -80.448421,
+        "broker_name": "Florida New Dream Corp.",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/546044758ffe2374c5d4a35560634b9a-p_e.jpg",
+            "path": "full/60798458.jpg",
+            "checksum": "dc5646db8de479a1edba6e158fb736c0"
+        }]
+    },
+    {
+        "id": "126319893",
+        "image_urls": ["https://photos.zillowstatic.com/fp/accd34b8e7604fe8acf2c96a874e5d96-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/600-NE-27th-St-APT-3105-Miami-FL-33137/126319893_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "Condo for sale",
+        "price": "$799,999",
+        "address": "600 NE 27th St APT 3105, Miami, FL 33137",
+        "beds": 3,
+        "baths": 3.0,
+        "area_sqft": 1505,
+        "latitude": 25.802616,
+        "longitude": -80.186891,
+        "broker_name": "Capital Teamwork Real Estate Corp",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/accd34b8e7604fe8acf2c96a874e5d96-p_e.jpg",
+            "path": "full/126319893.jpg",
+            "checksum": "ec489f31c6fe5d9309e6465d164bd1d0"
+        }]
+    },
+    {
+        "id": "44284656",
+        "image_urls": ["https://photos.zillowstatic.com/fp/25e0bce385f28fb16ec7d3eff6e247c0-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/8930-SW-125th-Ter-Miami-FL-33176/44284656_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$750,000",
+        "address": "8930 SW 125th Ter, Miami, FL 33176",
+        "beds": 4,
+        "baths": 3.0,
+        "area_sqft": 1855,
+        "latitude": 25.653238,
+        "longitude": -80.339453,
+        "broker_name": "Coldwell Banker Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/25e0bce385f28fb16ec7d3eff6e247c0-p_e.jpg",
+            "path": "full/44284656.jpg",
+            "checksum": "7af81fcae3104c5008f6f2b2dae8405c"
+        }]
+    },
+    {
+        "id": "43850226",
+        "image_urls": ["https://photos.zillowstatic.com/fp/a54d9f00c9c0fefbdbcf76330a8f56c9-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/1768-SW-15th-St-Miami-FL-33145/43850226_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$875,000",
+        "address": "1768 SW 15th St, Miami, FL 33145",
+        "beds": 3,
+        "baths": 3.0,
+        "area_sqft": 2194,
+        "latitude": 25.75869,
+        "longitude": -80.223737,
+        "broker_name": "Compass Florida LLC",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/a54d9f00c9c0fefbdbcf76330a8f56c9-p_e.jpg",
+            "path": "full/43850226.jpg",
+            "checksum": "d0248a69e428c715a039db4fe0a1ec7f"
+        }]
+    },
+    {
+        "id": "44205205",
+        "image_urls": ["https://photos.zillowstatic.com/fp/a97bfba16c9ad62dae02eab33149ff12-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/8720-SW-54th-St-Miami-FL-33165/44205205_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$659,900",
+        "address": "8720 SW 54th St, Miami, FL 33165",
+        "beds": 4,
+        "baths": 3.0,
+        "area_sqft": 3234,
+        "latitude": 25.718333,
+        "longitude": -80.335703,
+        "broker_name": "First Service Realty ERA",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/a97bfba16c9ad62dae02eab33149ff12-p_e.jpg",
+            "path": "full/44205205.jpg",
+            "checksum": "4612b22a00767fc5a6b4d14080034123"
+        }]
+    },
+    {
+        "id": "44188510",
+        "image_urls": ["https://photos.zillowstatic.com/fp/82490d21763498edd078d535850d0e68-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/5887-SW-28th-St-Miami-FL-33155/44188510_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$939,000",
+        "address": "5887 SW 28th St, Miami, FL 33155",
+        "beds": 5,
+        "baths": 3.0,
+        "area_sqft": 1840,
+        "latitude": 25.745008,
+        "longitude": -80.29101,
+        "broker_name": "Keller Williams Capital Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/82490d21763498edd078d535850d0e68-p_e.jpg",
+            "path": "full/44188510.jpg",
+            "checksum": "24b4a7b86df05a3f76f22055fcc86c3d"
+        }]
+    },
+    {
+        "id": "43848927",
+        "image_urls": ["https://photos.zillowstatic.com/fp/a74967b2c8404df50bc22dbab6dbe54d-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/2747-SW-19th-Ter-Miami-FL-33145/43848927_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$525,000",
+        "address": "2747 SW 19th Ter, Miami, FL 33145",
+        "beds": 3,
+        "baths": 3.0,
+        "area_sqft": 1313,
+        "latitude": 25.753505,
+        "longitude": -80.239354,
+        "broker_name": "Florida Realty of Miami Corp",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/a74967b2c8404df50bc22dbab6dbe54d-p_e.jpg",
+            "path": "full/43848927.jpg",
+            "checksum": "49a6d64e4c09a93b1ecfc892130c4ba6"
+        }]
+    },
+    {
+        "id": "66173108",
+        "image_urls": ["https://photos.zillowstatic.com/fp/052eeca44af9f4c09169ca3cc5dc3f64-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/4020-Kiaora-St-Miami-FL-33133/66173108_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$11,900,000",
+        "address": "4020 Kiaora St, Miami, FL 33133",
+        "beds": 8,
+        "baths": 10.0,
+        "area_sqft": 10623,
+        "latitude": 25.71504,
+        "longitude": -80.257696,
+        "broker_name": "Douglas Elliman",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/052eeca44af9f4c09169ca3cc5dc3f64-p_e.jpg",
+            "path": "full/66173108.jpg",
+            "checksum": "dd88bf2979dbe7d7b1f9a6b64a6f0839"
+        }]
+    },
+    {
+        "id": "113378662",
+        "image_urls": ["https://photos.zillowstatic.com/fp/a39bd1b917d155116d8f2ffa2b3865a2-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/92-SW-3rd-St-APT-3110-Miami-FL-33130/113378662_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "Condo for sale",
+        "price": "$529,000",
+        "address": "92 SW 3rd St APT 3110, Miami, FL 33130",
+        "beds": 2,
+        "baths": 3.0,
+        "area_sqft": 1389,
+        "latitude": 25.769499,
+        "longitude": -80.195826,
+        "broker_name": "Miami Realty Solution Group",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/a39bd1b917d155116d8f2ffa2b3865a2-p_e.jpg",
+            "path": "full/113378662.jpg",
+            "checksum": "5898a47ec7b4aa5145d790c2f57c20e1"
+        }]
+    },
+    {
+        "id": "43838763",
+        "image_urls": ["https://photos.zillowstatic.com/fp/09a23c0632b2ecb7f6830eee65d38517-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/1772-NW-3rd-St-Miami-FL-33125/43838763_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "Multi-family home for sale",
+        "price": "$595,000",
+        "address": "1772 NW 3rd St, Miami, FL 33125",
+        "area_sqft": 2275,
+        "latitude": 25.776112,
+        "longitude": -80.22426,
+        "broker_name": "London Foster Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/09a23c0632b2ecb7f6830eee65d38517-p_e.jpg",
+            "path": "full/43838763.jpg",
+            "checksum": "91e19d44042f8a2082ef7093ba7635e2"
+        }]
+    },
+    {
+        "id": "44331735",
+        "image_urls": ["https://photos.zillowstatic.com/fp/5750bc709ad461bab08fbf0e9f8260f5-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/13271-SW-144th-Ter-Miami-FL-33186/44331735_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$465,000",
+        "address": "13271 SW 144th Ter, Miami, FL 33186",
+        "beds": 3,
+        "baths": 2.0,
+        "area_sqft": 1906,
+        "latitude": 25.633538,
+        "longitude": -80.405306,
+        "broker_name": "Global Luxury Realty LLC",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/5750bc709ad461bab08fbf0e9f8260f5-p_e.jpg",
+            "path": "full/44331735.jpg",
+            "checksum": "c77cc431b4ca4c5a9b08430d11fa13b0"
+        }]
+    },
+    {
+        "id": "44284316",
+        "image_urls": ["https://photos.zillowstatic.com/fp/b0c37f16cd5cb18a6c975abf5572150c-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/8525-SW-125th-St-Miami-FL-33156/44284316_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$625,000",
+        "address": "8525 SW 125th St, Miami, FL 33156",
+        "beds": 4,
+        "baths": 4.0,
+        "area_sqft": 2030,
+        "latitude": 25.654475,
+        "longitude": -80.331638,
+        "broker_name": "Red House Realty, LLC",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/b0c37f16cd5cb18a6c975abf5572150c-p_e.jpg",
+            "path": "full/44284316.jpg",
+            "checksum": "968fef756134bcc193a548e6b58f3f59"
+        }]
+    },
+    {
+        "id": "43856096",
+        "image_urls": ["https://photos.zillowstatic.com/fp/950bb1e88dae21af651308353b08c584-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/1791-S-Bayshore-Ln-Miami-FL-33133/43856096_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$1,150,000",
+        "address": "1791 S Bayshore Ln, Miami, FL 33133",
+        "beds": 3,
+        "baths": 2.0,
+        "area_sqft": 1650,
+        "latitude": 25.737901,
+        "longitude": -80.221524,
+        "broker_name": "Compass Florida, LLC",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/950bb1e88dae21af651308353b08c584-p_e.jpg",
+            "path": "full/43856096.jpg",
+            "checksum": "bb798449fb424efbf7cbf82504a39f37"
+        }]
+    },
+    {
+        "id": "43822272",
+        "image_urls": ["https://photos.zillowstatic.com/fp/2b3d9a051dff7e8c9bd64c66de254f76-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/1628-NW-28th-Ave-Miami-FL-33125/43822272_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$460,000",
+        "address": "1628 NW 28th Ave, Miami, FL 33125",
+        "beds": 4,
+        "baths": 3.0,
+        "area_sqft": 1516,
+        "latitude": 25.78949,
+        "longitude": -80.241336,
+        "broker_name": "United Real Estate Miami",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/2b3d9a051dff7e8c9bd64c66de254f76-p_e.jpg",
+            "path": "full/43822272.jpg",
+            "checksum": "77ab19129a5bea9c5af9eb5f9183c2c1"
+        }]
+    },
+    {
+        "id": "44288783",
+        "image_urls": ["https://photos.zillowstatic.com/fp/36f81eb53e4c07c9c303a97548122c18-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/11610-SW-138th-St-Miami-FL-33176/44288783_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$345,000",
+        "address": "11610 SW 138th St, Miami, FL 33176",
+        "beds": 3,
+        "baths": 1.0,
+        "area_sqft": 1025,
+        "latitude": 25.640213,
+        "longitude": -80.382154,
+        "broker_name": "Hudson Capital Realty LLC",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/36f81eb53e4c07c9c303a97548122c18-p_e.jpg",
+            "path": "full/44288783.jpg",
+            "checksum": "6cf9bb0fe5cf4f4868bdcaa366b56736"
+        }]
+    },
+    {
+        "id": "92446800",
+        "image_urls": ["https://photos.zillowstatic.com/fp/07fafd1139bb2e8e5653b219e603e26f-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/7290-SW-90th-St-APT-506-Miami-FL-33156/92446800_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "Condo for sale",
+        "price": "$292,000",
+        "address": "7290 SW 90th St APT 506, Miami, FL 33156",
+        "beds": 2,
+        "baths": 2.0,
+        "area_sqft": 882,
+        "latitude": 25.686696,
+        "longitude": -80.31309,
+        "broker_name": "A.M.A. Realty Group Inc.",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/07fafd1139bb2e8e5653b219e603e26f-p_e.jpg",
+            "path": "full/92446800.jpg",
+            "checksum": "b1e9765779c2c1c9a4e8a13647527adc"
+        }]
+    },
+    {
+        "id": "44279602",
+        "image_urls": ["https://photos.zillowstatic.com/fp/21e77041a2142aa760d409f45a6043cd-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/10960-SW-115th-St-Miami-FL-33176/44279602_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$620,000",
+        "address": "10960 SW 115th St, Miami, FL 33176",
+        "beds": 4,
+        "baths": 3.0,
+        "area_sqft": 2537,
+        "latitude": 25.661668,
+        "longitude": -80.372909,
+        "broker_name": "Coldwell Banker Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/21e77041a2142aa760d409f45a6043cd-p_e.jpg",
+            "path": "full/44279602.jpg",
+            "checksum": "d3b1b8787bb4d2896453260d825d833e"
+        }]
+    },
+    {
+        "id": "70775570",
+        "image_urls": ["https://photos.zillowstatic.com/fp/42fe8e0d03613761ccb9fab103991094-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/31-SE-5th-St-APT-3615-Miami-FL-33131/70775570_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "Condo for sale",
+        "price": "$699,900",
+        "address": "31 SE 5th St APT 3615, Miami, FL 33131",
+        "beds": 3,
+        "baths": 3.0,
+        "area_sqft": 1513,
+        "latitude": 25.76968,
+        "longitude": -80.191603,
+        "broker_name": "Lang Realty, Inc",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/42fe8e0d03613761ccb9fab103991094-p_e.jpg",
+            "path": "full/70775570.jpg",
+            "checksum": "2a51aa196360fb124732ca3312ff4e0a"
+        }]
+    },
+    {
+        "id": "44281521",
+        "image_urls": ["https://photos.zillowstatic.com/fp/ca268a8b0cd1a586e5f9a3b62c5c839b-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/10447-SW-108th-Ave-278-Miami-FL-33176/44281521_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "Condo for sale",
+        "price": "$185,000",
+        "address": "10447 SW 108th Ave #278, Miami, FL 33176",
+        "beds": 2,
+        "baths": 2.0,
+        "area_sqft": 885,
+        "latitude": 25.671214,
+        "longitude": -80.368905,
+        "broker_name": "Elite Sales Group",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/ca268a8b0cd1a586e5f9a3b62c5c839b-p_e.jpg",
+            "path": "full/44281521.jpg",
+            "checksum": "428d3452382610ca73b168ab1aecda48"
+        }]
+    },
+    {
+        "id": "43813321",
+        "image_urls": ["https://photos.zillowstatic.com/fp/f7a2a78453abe89f5a774be983aa0dae-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/568-NW-50th-St-Miami-FL-33127/43813321_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$649,900",
+        "address": "568 NW 50th St, Miami, FL 33127",
+        "beds": 3,
+        "baths": 2.0,
+        "area_sqft": 1574,
+        "latitude": 25.821091,
+        "longitude": -80.205304,
+        "broker_name": "Xcellence Realty Inc",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/f7a2a78453abe89f5a774be983aa0dae-p_e.jpg",
+            "path": "full/43813321.jpg",
+            "checksum": "1a34f16cf92da9de6263bdad36f5086a"
+        }]
+    },
+    {
+        "id": "44276831",
+        "image_urls": ["https://photos.zillowstatic.com/fp/ca72162baf63faf0d8ec05f1bd8b3285-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/10003-SW-89th-Ct-Miami-FL-33176/44276831_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$1,900,000",
+        "address": "10003 SW 89th Ct, Miami, FL 33176",
+        "beds": 5,
+        "baths": 4.0,
+        "area_sqft": 3541,
+        "latitude": 25.676725,
+        "longitude": -80.339681,
+        "broker_name": "The Keyes Company",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/ca72162baf63faf0d8ec05f1bd8b3285-p_e.jpg",
+            "path": "full/44276831.jpg",
+            "checksum": "10440bffb5c56763175d3c71f71068c6"
+        }]
+    },
+    {
+        "id": "43809385",
+        "image_urls": ["https://photos.zillowstatic.com/fp/6753832d26e587b2ef12014b3373b2d1-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/1550-NW-63rd-St-Miami-FL-33147/43809385_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$259,000",
+        "address": "1550 NW 63rd St, Miami, FL 33147",
+        "beds": 3,
+        "baths": 1.0,
+        "area_sqft": 1152,
+        "latitude": 25.832824,
+        "longitude": -80.223879,
+        "broker_name": "Beachfront Realty Inc",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/6753832d26e587b2ef12014b3373b2d1-p_e.jpg",
+            "path": "full/43809385.jpg",
+            "checksum": "344e656d02c947b304b453a1b013ed9d"
+        }]
+    },
+    {
+        "id": "155808399",
+        "image_urls": ["https://photos.zillowstatic.com/fp/bf92afa39fc07fae7fef135ba541d0ea-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/2140-S-Miami-Ave-Miami-FL-33129/155808399_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$4,300,000",
+        "address": "2140 S Miami Ave, Miami, FL 33129",
+        "beds": 5,
+        "baths": 6.0,
+        "area_sqft": 4879,
+        "latitude": 25.754078,
+        "longitude": -80.200996,
+        "broker_name": "Luxuri International Real Estate Miami, LLC.",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/bf92afa39fc07fae7fef135ba541d0ea-p_e.jpg",
+            "path": "full/155808399.jpg",
+            "checksum": "2c71fc286bb540bc7e9b124c167b352f"
+        }]
+    },
+    {
+        "id": "82421677",
+        "image_urls": ["https://photos.zillowstatic.com/fp/9d8b43cda2b9ea0f82344dcf66119408-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/665-NE-25th-St-APT-1101-Miami-FL-33137/82421677_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "Condo for sale",
+        "price": "$629,000",
+        "address": "665 NE 25th St APT 1101, Miami, FL 33137",
+        "beds": 2,
+        "baths": 3.0,
+        "area_sqft": 1508,
+        "latitude": 25.80134,
+        "longitude": -80.185704,
+        "broker_name": "Compass Florida, LLC.",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/9d8b43cda2b9ea0f82344dcf66119408-p_e.jpg",
+            "path": "full/82421677.jpg",
+            "checksum": "9acf148f36b1c388a80f6bb6d5b3d323"
+        }]
+    },
+    {
+        "id": "44187326",
+        "image_urls": ["https://photos.zillowstatic.com/fp/36358f298d7ddf0d7338e927ccbb8fc4-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/6449-SW-29th-St-Miami-FL-33155/44187326_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$749,975",
+        "address": "6449 SW 29th St, Miami, FL 33155",
+        "beds": 5,
+        "baths": 3.0,
+        "area_sqft": 2529,
+        "latitude": 25.743611,
+        "longitude": -80.300346,
+        "broker_name": "Portal Real Estate, LLC",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/36358f298d7ddf0d7338e927ccbb8fc4-p_e.jpg",
+            "path": "full/44187326.jpg",
+            "checksum": "b50c7eb73a0d6c72598bfc80ea13e5f4"
+        }]
+    },
+    {
+        "id": "43806870",
+        "image_urls": ["https://photos.zillowstatic.com/fp/a2d8174d0880208907a260890f5897d6-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/60-NW-79th-St-APT-1-Miami-FL-33150/43806870_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "Condo for sale",
+        "price": "$65,000",
+        "address": "60 NW 79th St APT 1, Miami, FL 33150",
+        "beds": 1,
+        "baths": 1.0,
+        "area_sqft": 462,
+        "latitude": 25.847267,
+        "longitude": -80.197998,
+        "broker_name": "Brickellmania, LLC.",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/a2d8174d0880208907a260890f5897d6-p_e.jpg",
+            "path": "full/43806870.jpg",
+            "checksum": "c41a58753fbe09d209e652a97ceecd2a"
+        }]
+    },
+    {
+        "id": "44284334",
+        "image_urls": ["https://photos.zillowstatic.com/fp/9ebf825ead0373ec5df7b3ee1d8087fd-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/8570-SW-125th-St-Miami-FL-33156/44284334_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$589,000",
+        "address": "8570 SW 125th St, Miami, FL 33156",
+        "beds": 3,
+        "baths": 2.0,
+        "area_sqft": 1906,
+        "latitude": 25.654001,
+        "longitude": -80.332778,
+        "broker_name": "E F Hutton Associates",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/9ebf825ead0373ec5df7b3ee1d8087fd-p_e.jpg",
+            "path": "full/44284334.jpg",
+            "checksum": "699001046dbef58b9322870966ce2402"
+        }]
+    },
+    {
+        "id": "306398911",
+        "image_urls": ["https://photos.zillowstatic.com/fp/e6f78c2dd52ea28d0800e44eb3bdd271-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/30-Bay-Heights-Dr-Miami-FL-33133/306398911_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$4,500,000",
+        "address": "30 Bay Heights Dr, Miami, FL 33133",
+        "beds": 5,
+        "baths": 5.0,
+        "area_sqft": 5114,
+        "latitude": 25.745732,
+        "longitude": -80.214867,
+        "broker_name": "One Sotheby's International Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/e6f78c2dd52ea28d0800e44eb3bdd271-p_e.jpg",
+            "path": "full/306398911.jpg",
+            "checksum": "36413dc77a889cdebe2f9f1fbfba0c9b"
+        }]
+    },
+    {
+        "id": "2096554080",
+        "image_urls": ["https://photos.zillowstatic.com/fp/14c6849d30772715a7e11f7461da3671-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/6794-N-Waterway-Dr-Miami-FL-33155/2096554080_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$2,250,000",
+        "address": "6794 N Waterway Dr, Miami, FL 33155",
+        "beds": 5,
+        "baths": 5.0,
+        "area_sqft": 4208,
+        "latitude": 25.736069,
+        "longitude": -80.310439,
+        "broker_name": "The Space Brokers LLC",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/14c6849d30772715a7e11f7461da3671-p_e.jpg",
+            "path": "full/2096554080.jpg",
+            "checksum": "731824aa5290ba25868fbe2d01ee0d67"
+        }]
+    },
+    {
+        "id": "43856690",
+        "image_urls": ["https://photos.zillowstatic.com/fp/43c9bf86003a9497b531a5ee0d287b73-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/2805-Crystal-Ct-Miami-FL-33133/43856690_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$999,000",
+        "address": "2805 Crystal Ct, Miami, FL 33133",
+        "beds": 2,
+        "baths": 1.0,
+        "area_sqft": 900,
+        "latitude": 25.74154,
+        "longitude": -80.224789,
+        "broker_name": "BHHS EWM Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/43c9bf86003a9497b531a5ee0d287b73-p_e.jpg",
+            "path": "full/43856690.jpg",
+            "checksum": "efb61ccca9178a9f60f2576d548132d3"
+        }]
+    },
+    {
+        "id": "43855112",
+        "image_urls": ["https://photos.zillowstatic.com/fp/8ced1f613cadc06f46f1d47c652dfbf0-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/2420-SW-22nd-Ave-Miami-FL-33145/43855112_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$545,000",
+        "address": "2420 SW 22nd Ave, Miami, FL 33145",
+        "beds": 3,
+        "baths": 2.0,
+        "area_sqft": 1358,
+        "latitude": 25.750187,
+        "longitude": -80.234933,
+        "broker_name": "Keller Williams Capital Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/8ced1f613cadc06f46f1d47c652dfbf0-p_e.jpg",
+            "path": "full/43855112.jpg",
+            "checksum": "3ece92ceb27606db6bcad3f680bcf2b9"
+        }]
+    },
+    {
+        "id": "43809945",
+        "image_urls": ["https://photos.zillowstatic.com/fp/b05bcc9fd03faa3cc97ac2b27f0e8061-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/829-NW-56th-St-Miami-FL-33127/43809945_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$289,000",
+        "address": "829 NW 56th St, Miami, FL 33127",
+        "beds": 3,
+        "baths": 2.0,
+        "area_sqft": 749,
+        "latitude": 25.82729,
+        "longitude": -80.210908,
+        "broker_name": "MAC Miami Realty Group, LLC.",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/b05bcc9fd03faa3cc97ac2b27f0e8061-p_e.jpg",
+            "path": "full/43809945.jpg",
+            "checksum": "a3d4f8ab937aa375ca344a020fb9f313"
+        }]
+    },
+    {
+        "id": "44214177",
+        "image_urls": ["https://photos.zillowstatic.com/fp/796186d360df76d9b1fce8a9453df0d7-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/6621-SW-116th-Pl-E2-Miami-FL-33173/44214177_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "Condo for sale",
+        "price": "$285,000",
+        "address": "6621 SW 116th Pl #E2, Miami, FL 33173",
+        "beds": 3,
+        "baths": 2.0,
+        "area_sqft": 1340,
+        "latitude": 25.704949,
+        "longitude": -80.38176,
+        "broker_name": "United Realty Group Inc",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/796186d360df76d9b1fce8a9453df0d7-p_e.jpg",
+            "path": "full/44214177.jpg",
+            "checksum": "9ef4e6e4c412ac246ff133e1d59e5a77"
+        }]
+    },
+    {
+        "id": "155803162",
+        "image_urls": ["https://photos.zillowstatic.com/fp/bcdd397b045f3e02b4e3fe9c28671b96-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/4039-Ventura-Ave-Miami-FL-33133/155803162_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$3,150,000",
+        "address": "4039 Ventura Ave, Miami, FL 33133",
+        "beds": 5,
+        "baths": 5.0,
+        "area_sqft": 4687,
+        "latitude": 25.718688,
+        "longitude": -80.257921,
+        "broker_name": "Fortune International Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/bcdd397b045f3e02b4e3fe9c28671b96-p_e.jpg",
+            "path": "full/155803162.jpg",
+            "checksum": "32566baa251a72d3bf34a851b9a2ef85"
+        }]
+    },
+    {
+        "id": "2128151162",
+        "image_urls": ["https://photos.zillowstatic.com/fp/53760f10ffe70aa8893a5c4e77a00d39-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/11480-SW-73rd-Ter-0-Miami-FL-33173/2128151162_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "Townhouse for sale",
+        "price": "$426,000",
+        "address": "11480 SW 73rd Ter #0, Miami, FL 33173",
+        "beds": 3,
+        "baths": 2.0,
+        "area_sqft": 1767,
+        "latitude": 25.699334,
+        "longitude": -80.379478,
+        "broker_name": "Choice Realty of Miami Inc",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/53760f10ffe70aa8893a5c4e77a00d39-p_e.jpg",
+            "path": "full/2128151162.jpg",
+            "checksum": "72f3b151778b9fefb7feca36d6c8ece4"
+        }]
+    },
+    {
+        "id": "2070759521",
+        "image_urls": ["https://photos.zillowstatic.com/fp/adb385b75e25012d147367ef3c337b41-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/3120-SW-23rd-Ter-2-Miami-FL-33145/2070759521_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "New construction",
+        "price": "$955,000",
+        "address": "3120 SW 23rd Ter #2, Miami, FL 33145",
+        "beds": 4,
+        "baths": 4.0,
+        "area_sqft": 2682,
+        "latitude": 25.747118,
+        "longitude": -80.243733,
+        "broker_name": "Fortune International Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/adb385b75e25012d147367ef3c337b41-p_e.jpg",
+            "path": "full/2070759521.jpg",
+            "checksum": "75c6a77c0fd26e82728b4ff1e5a86d0a"
+        }]
+    },
+    {
+        "id": "43843223",
+        "image_urls": ["https://photos.zillowstatic.com/fp/e635c104c64ac431f7f513ca1043798d-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/3901-NW-1st-St-Miami-FL-33126/43843223_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$420,000",
+        "address": "3901 NW 1st St, Miami, FL 33126",
+        "beds": 2,
+        "baths": 1.0,
+        "area_sqft": 817,
+        "latitude": 25.773422,
+        "longitude": -80.259828,
+        "broker_name": "FlatFee.com",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/e635c104c64ac431f7f513ca1043798d-p_e.jpg",
+            "path": "full/43843223.jpg",
+            "checksum": "bc3e1743d8edab16f7892d7aa83a3406"
+        }]
+    },
+    {
+        "id": "156220222",
+        "image_urls": ["https://photos.zillowstatic.com/fp/e3fefe3c9bf8489a067d31af32b78197-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/5765-SW-116th-Ave-Miami-FL-33173/156220222_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$790,000",
+        "address": "5765 SW 116th Ave, Miami, FL 33173",
+        "beds": 4,
+        "baths": 3.0,
+        "area_sqft": 2057,
+        "latitude": 25.712715,
+        "longitude": -80.381289,
+        "broker_name": "Equity Real Property and Mgt.",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/e3fefe3c9bf8489a067d31af32b78197-p_e.jpg",
+            "path": "full/156220222.jpg",
+            "checksum": "77475d817f090887abf18e8da4182a1e"
+        }]
+    },
+    {
+        "id": "44187897",
+        "image_urls": ["https://photos.zillowstatic.com/fp/03c7cefc52ede8545297daf3612a4cc1-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/6440-SW-35th-St-Miami-FL-33155/44187897_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$492,500",
+        "address": "6440 SW 35th St, Miami, FL 33155",
+        "beds": 3,
+        "baths": 2.0,
+        "area_sqft": 1229,
+        "latitude": 25.737337,
+        "longitude": -80.299909,
+        "broker_name": "CIRRIUS Group, Corp.",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/03c7cefc52ede8545297daf3612a4cc1-p_e.jpg",
+            "path": "full/44187897.jpg",
+            "checksum": "38e0f4f7d9e7d85c8ac9dddcaf9c5eec"
+        }]
+    },
+    {
+        "id": "72572470",
+        "image_urls": ["https://photos.zillowstatic.com/fp/3813fa8dd6d2698151a53639a543f46b-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/9055-SW-73rd-Ct-APT-1209-Miami-FL-33156/72572470_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "Condo for sale",
+        "price": "$350,000",
+        "address": "9055 SW 73rd Ct APT 1209, Miami, FL 33156",
+        "beds": 3,
+        "baths": 2.0,
+        "area_sqft": 1467,
+        "latitude": 25.686594,
+        "longitude": -80.314022,
+        "broker_name": "Real Estate Sales Force",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/3813fa8dd6d2698151a53639a543f46b-p_e.jpg",
+            "path": "full/72572470.jpg",
+            "checksum": "ded346a3f16da2582d12c28c00277072"
+        }]
+    },
+    {
+        "id": "2111221807",
+        "image_urls": ["https://photos.zillowstatic.com/fp/47553614fca9ef8237def5f51a619231-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/3166-Center-St-Miami-FL-33133/2111221807_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$785,000",
+        "address": "3166 Center St, Miami, FL 33133",
+        "beds": 2,
+        "baths": 2.0,
+        "area_sqft": 1343,
+        "latitude": 25.732614,
+        "longitude": -80.238885,
+        "broker_name": "BHHS EWM Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/47553614fca9ef8237def5f51a619231-p_e.jpg",
+            "path": "full/2111221807.jpg",
+            "checksum": "0c0452c987860e1c27f5b07aa6b4de96"
+        }]
+    },
+    {
+        "id": "44286120",
+        "image_urls": ["https://photos.zillowstatic.com/fp/4edefd9559e839ec5e74bd9964cdd484-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/12504-SW-99th-Ave-Miami-FL-33176/44286120_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$725,000",
+        "address": "12504 SW 99th Ave, Miami, FL 33176",
+        "beds": 4,
+        "baths": 2.0,
+        "area_sqft": 2550,
+        "latitude": 25.653415,
+        "longitude": -80.354662,
+        "broker_name": "BHHS EWM Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/4edefd9559e839ec5e74bd9964cdd484-p_e.jpg",
+            "path": "full/44286120.jpg",
+            "checksum": "4b122c5ddeb4d403a59ecf7936a12f55"
+        }]
+    },
+    {
+        "id": "64750324",
+        "image_urls": ["https://photos.zillowstatic.com/fp/7dd4afea83548a8fbbbdd17df9989197-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/770-Claughton-Island-Dr-APT-502-Miami-FL-33131/64750324_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "Condo for sale",
+        "price": "$375,000",
+        "address": "770 Claughton Island Dr APT 502, Miami, FL 33131",
+        "beds": 2,
+        "baths": 2.0,
+        "area_sqft": 1065,
+        "latitude": 25.766144,
+        "longitude": -80.18461,
+        "broker_name": "Fortune International Realty B",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/7dd4afea83548a8fbbbdd17df9989197-p_e.jpg",
+            "path": "full/64750324.jpg",
+            "checksum": "b2d26492f797de18e6e5c820b62a0998"
+        }]
+    },
+    {
+        "id": "44201908",
+        "image_urls": ["https://photos.zillowstatic.com/fp/591082baaa29eea3bc4ac2face6b5e87-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/5130-SW-99th-Ave-Miami-FL-33165/44201908_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$799,900",
+        "address": "5130 SW 99th Ave, Miami, FL 33165",
+        "beds": 3,
+        "baths": 2.0,
+        "area_sqft": 2050,
+        "latitude": 25.719666,
+        "longitude": -80.356178,
+        "broker_name": "Era American Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/591082baaa29eea3bc4ac2face6b5e87-p_e.jpg",
+            "path": "full/44201908.jpg",
+            "checksum": "5a0b0f6c3ee86ddae3b6e84532886a2b"
+        }]
+    },
+    {
+        "id": "43811897",
+        "image_urls": ["https://photos.zillowstatic.com/fp/91e5059e872f1375d816df23f39db29a-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/1257-NW-51st-St-Miami-FL-33142/43811897_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$350,000",
+        "address": "1257 NW 51st St, Miami, FL 33142",
+        "beds": 3,
+        "baths": 1.0,
+        "area_sqft": 975,
+        "latitude": 25.821922,
+        "longitude": -80.217306,
+        "broker_name": "Pines Real Estate & Investment",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/91e5059e872f1375d816df23f39db29a-p_e.jpg",
+            "path": "full/43811897.jpg",
+            "checksum": "607c86dba52795788b1652c5c8391658"
+        }]
+    },
+    {
+        "id": "44211878",
+        "image_urls": ["https://photos.zillowstatic.com/fp/e840e058c8b4ba7edc458ace70d9916b-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/7136-SW-103rd-Pl-Miami-FL-33173/44211878_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$450,000",
+        "address": "7136 SW 103rd Pl, Miami, FL 33173",
+        "beds": 3,
+        "baths": 2.0,
+        "area_sqft": 1298,
+        "latitude": 25.701775,
+        "longitude": -80.362195,
+        "broker_name": "Coldwell Banker Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/e840e058c8b4ba7edc458ace70d9916b-p_e.jpg",
+            "path": "full/44211878.jpg",
+            "checksum": "4347f122ba9d8857fc62a9631b03d521"
+        }]
+    },
+    {
+        "id": "2084602722",
+        "image_urls": ["https://photos.zillowstatic.com/fp/0e536d0f2569586a84a0dbd5cbd14be5-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/8232-NW-47th-Ln-Doral-FL-33166/2084602722_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "New construction",
+        "price": "$995,000",
+        "address": "8232 NW 47th Ln, Doral, FL 33166",
+        "beds": 4,
+        "baths": 4.0,
+        "area_sqft": 2844,
+        "latitude": 25.725328,
+        "longitude": -80.328192,
+        "broker_name": "Real Estate of Florida",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/0e536d0f2569586a84a0dbd5cbd14be5-p_e.jpg",
+            "path": "full/2084602722.jpg",
+            "checksum": "59843ce1564edee9c930a81d3f8cb266"
+        }]
+    },
+    {
+        "id": "43863747",
+        "image_urls": ["https://photos.zillowstatic.com/fp/0a32a0e3978a268639c7a830b7a45ac4-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/3600-Matheson-Ave-Miami-FL-33133/43863747_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$6,399,999",
+        "address": "3600 Matheson Ave, Miami, FL 33133",
+        "beds": 5,
+        "baths": 6.0,
+        "area_sqft": 4758,
+        "latitude": 25.711723,
+        "longitude": -80.250496,
+        "broker_name": "The Keyes Company",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/0a32a0e3978a268639c7a830b7a45ac4-p_e.jpg",
+            "path": "full/43863747.jpg",
+            "checksum": "3c5a9bc8dfa6a0893ce89f9418df5770"
+        }]
+    },
+    {
+        "id": "43819100",
+        "image_urls": ["https://photos.zillowstatic.com/fp/ffccc53e254c4b875a9f6dd454f56632-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/4725-NW-7th-St-APT-105-3-Miami-FL-33126/43819100_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "Condo for sale",
+        "price": "$165,000",
+        "address": "4725 NW 7th St APT 105-3, Miami, FL 33126",
+        "beds": 1,
+        "baths": 1.0,
+        "area_sqft": 715,
+        "latitude": 25.779116,
+        "longitude": -80.273104,
+        "broker_name": "The Keyes Company",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/ffccc53e254c4b875a9f6dd454f56632-p_e.jpg",
+            "path": "full/43819100.jpg",
+            "checksum": "0f2f0b2fb080d7ae96cf218dbd2b455a"
+        }]
+    },
+    {
+        "id": "70766572",
+        "image_urls": ["https://photos.zillowstatic.com/fp/81dc203ca299fc593f11b211fa377071-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/5085-NW-7th-St-PENTHOUSE-10-Miami-FL-33126/70766572_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "Foreclosure",
+        "price": "$220,000",
+        "address": "5085 NW 7th St PENTHOUSE 10, Miami, FL 33126",
+        "beds": 1,
+        "baths": 1.0,
+        "area_sqft": 685,
+        "latitude": 25.779785,
+        "longitude": -80.2773,
+        "broker_name": "NXT LVL Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/81dc203ca299fc593f11b211fa377071-p_e.jpg",
+            "path": "full/70766572.jpg",
+            "checksum": "76f80b2ca70ed25f20db965cbb2dcca2"
+        }]
+    },
+    {
+        "id": "43811174",
+        "image_urls": ["https://photos.zillowstatic.com/fp/82c6ebb2bbe15508ec2026de06e56c24-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/1745-NW-51st-St-Miami-FL-33142/43811174_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "Coming soon",
+        "price": "$425,000",
+        "address": "1745 NW 51st St, Miami, FL 33142",
+        "beds": 3,
+        "baths": 2.0,
+        "area_sqft": 1375,
+        "latitude": 25.821726,
+        "longitude": -80.225405,
+        "broker_name": "J. Briann Realty Group",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/82c6ebb2bbe15508ec2026de06e56c24-p_e.jpg",
+            "path": "full/43811174.jpg",
+            "checksum": "021f1951095d2efa1045591c1364fa5d"
+        }]
+    },
+    {
+        "id": "44186005",
+        "image_urls": ["https://photos.zillowstatic.com/fp/aea9685677810178473257b2d5092f43-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/7000-SW-16th-Ter-Miami-FL-33155/44186005_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "Foreclosure",
+        "price": "$530,000",
+        "address": "7000 SW 16th Ter, Miami, FL 33155",
+        "beds": 4,
+        "baths": 2.0,
+        "area_sqft": 1739,
+        "latitude": 25.75475,
+        "longitude": -80.30854,
+        "broker_name": "Miami Trust Realty Inc",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/aea9685677810178473257b2d5092f43-p_e.jpg",
+            "path": "full/44186005.jpg",
+            "checksum": "ad2c5d33b727de6b3016e3168fbdf85c"
+        }]
+    },
+    {
+        "id": "43840595",
+        "image_urls": ["https://photos.zillowstatic.com/fp/2fe98959a70f1ee8fea1b70b1a7c04bc-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/300-SW-30th-Ct-Miami-FL-33135/43840595_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$450,000",
+        "address": "300 SW 30th Ct, Miami, FL 33135",
+        "beds": 4,
+        "baths": 3.0,
+        "area_sqft": 1591,
+        "latitude": 25.769282,
+        "longitude": -80.244906,
+        "broker_name": "United Realty Group Inc",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/2fe98959a70f1ee8fea1b70b1a7c04bc-p_e.jpg",
+            "path": "full/43840595.jpg",
+            "checksum": "9fed32954f429804f38c6835d243be67"
+        }]
+    },
+    {
+        "id": "82410831",
+        "image_urls": ["https://photos.zillowstatic.com/fp/1161b205f37673348acf4f9c47b8a45b-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/41-SE-5th-St-APT-2407-Miami-FL-33131/82410831_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "Condo for sale",
+        "price": "$495,000",
+        "address": "41 SE 5th St APT 2407, Miami, FL 33131",
+        "beds": 2,
+        "baths": 2.0,
+        "area_sqft": 1510,
+        "latitude": 25.769,
+        "longitude": -80.191833,
+        "broker_name": "BHHS EWM Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/1161b205f37673348acf4f9c47b8a45b-p_e.jpg",
+            "path": "full/82410831.jpg",
+            "checksum": "8a32e521534ab40b586b44ef632d9ae5"
+        }]
+    },
+    {
+        "id": "2071050849",
+        "image_urls": ["https://photos.zillowstatic.com/fp/57506aef85f35fdf9ca6efc72e7f8080-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/community/century-gardens-south/2071050849_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "New construction",
+        "price": "$579,990+",
+        "address": "Florencia II Grand Plan, Century Gardens South",
+        "beds": 5,
+        "baths": 4.0,
+        "area_sqft": 2910,
+        "latitude": 25.638973,
+        "longitude": -80.449147,
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/57506aef85f35fdf9ca6efc72e7f8080-p_e.jpg",
+            "path": "full/2071050849.jpg",
+            "checksum": "02eda1ea1c9bbdeb155b223efc716c08"
+        }]
+    },
+    {
+        "id": "43836432",
+        "image_urls": ["https://photos.zillowstatic.com/fp/1c979aa4984240b815228cb217b19e17-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/6200-W-Flagler-St-APT-310-Miami-FL-33144/43836432_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "Condo for sale",
+        "price": "$175,000",
+        "address": "6200 W Flagler St APT 310, Miami, FL 33144",
+        "beds": 1,
+        "baths": 1.0,
+        "area_sqft": 575,
+        "latitude": 25.770373,
+        "longitude": -80.296633,
+        "broker_name": "Beachfront Realty Inc",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/1c979aa4984240b815228cb217b19e17-p_e.jpg",
+            "path": "full/43836432.jpg",
+            "checksum": "8f551b7e3a3cff562f9a23cff318cd75"
+        }]
+    },
+    {
+        "id": "72570611",
+        "image_urls": ["https://photos.zillowstatic.com/fp/39549a2cc7995736f65d59353d684154-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/690-SW-1st-Ct-APT-2920-Miami-FL-33130/72570611_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "Condo for sale",
+        "price": "$438,000",
+        "address": "690 SW 1st Ct APT 2920, Miami, FL 33130",
+        "beds": 2,
+        "baths": 2.0,
+        "area_sqft": 1255,
+        "latitude": 25.767842,
+        "longitude": -80.196229,
+        "broker_name": "TS International Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/39549a2cc7995736f65d59353d684154-p_e.jpg",
+            "path": "full/72570611.jpg",
+            "checksum": "e3dc25d9d171c43740802168439c83ec"
+        }]
+    },
+    {
+        "id": "43851357",
+        "image_urls": ["https://photos.zillowstatic.com/fp/0eedf30c0296c734aca32d7da16594ae-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/1510-SW-19th-Ave-Miami-FL-33145/43851357_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$659,000",
+        "address": "1510 SW 19th Ave, Miami, FL 33145",
+        "beds": 5,
+        "baths": 2.0,
+        "area_sqft": 1840,
+        "latitude": 25.758719,
+        "longitude": -80.226627,
+        "broker_name": "Real Estate Empire Group, Inc.",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/0eedf30c0296c734aca32d7da16594ae-p_e.jpg",
+            "path": "full/43851357.jpg",
+            "checksum": "cc996fe9f518c1a0a131538694691602"
+        }]
+    },
+    {
+        "id": "43839029",
+        "image_urls": ["https://photos.zillowstatic.com/fp/75b9589f4952e5e9a54970e1a9e93b5d-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/636-SW-18th-Ave-Miami-FL-33135/43839029_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$498,000",
+        "address": "636 SW 18th Ave, Miami, FL 33135",
+        "beds": 4,
+        "baths": 2.0,
+        "area_sqft": 1276,
+        "latitude": 25.766647,
+        "longitude": -80.224786,
+        "broker_name": "Sellstate Partners Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/75b9589f4952e5e9a54970e1a9e93b5d-p_e.jpg",
+            "path": "full/43839029.jpg",
+            "checksum": "20834c8e28b9c435fc557b0cb6d28ed1"
+        }]
+    },
+    {
+        "id": "43859067",
+        "image_urls": ["https://photos.zillowstatic.com/fp/a3205bd23980e236bdbfe136627d4746-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/2952-SW-36th-Ave-Miami-FL-33133/43859067_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$1,100,000",
+        "address": "2952 SW 36th Ave, Miami, FL 33133",
+        "beds": 4,
+        "baths": 4.0,
+        "area_sqft": 1756,
+        "latitude": 25.735982,
+        "longitude": -80.252353,
+        "broker_name": "RE/MAX United Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/a3205bd23980e236bdbfe136627d4746-p_e.jpg",
+            "path": "full/43859067.jpg",
+            "checksum": "c7b5841202c5b7f694b3cacad5996a98"
+        }]
+    },
+    {
+        "id": "43855699",
+        "image_urls": ["https://photos.zillowstatic.com/fp/6effe874f13f3786a04ec9deb2efd0c8-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/2245-SW-18th-Ave-Miami-FL-33145/43855699_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$625,000",
+        "address": "2245 SW 18th Ave, Miami, FL 33145",
+        "beds": 3,
+        "baths": 1.0,
+        "area_sqft": 1066,
+        "latitude": 25.749397,
+        "longitude": -80.223786,
+        "broker_name": "Compass Florida, LLC",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/6effe874f13f3786a04ec9deb2efd0c8-p_e.jpg",
+            "path": "full/43855699.jpg",
+            "checksum": "111cbcf265d89bdd52b85052bce29444"
+        }]
+    },
+    {
+        "id": "72574944",
+        "image_urls": ["https://photos.zillowstatic.com/fp/ce7dda3dac7f978cc8dd4b21dbbeedfa-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/9066-SW-73rd-Ct-APT-1106-Miami-FL-33156/72574944_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "Condo for sale",
+        "price": "$385,000",
+        "address": "9066 SW 73rd Ct APT 1106, Miami, FL 33156",
+        "beds": 3,
+        "baths": 2.0,
+        "area_sqft": 1350,
+        "latitude": 25.686581,
+        "longitude": -80.314592,
+        "broker_name": "Florida Real Estate II Inc.",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/ce7dda3dac7f978cc8dd4b21dbbeedfa-p_e.jpg",
+            "path": "full/72574944.jpg",
+            "checksum": "3188bc7e6e7c1509486d57de80131db6"
+        }]
+    },
+    {
+        "id": "70773185",
+        "image_urls": ["https://photos.zillowstatic.com/fp/30c3e898549b4248d73cc02a4e39c4d1-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/801-NW-47th-Ave-APT-102W-Miami-FL-33126/70773185_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "Condo for sale",
+        "price": "$159,900",
+        "address": "801 NW 47th Ave APT 102W, Miami, FL 33126",
+        "beds": 2,
+        "baths": 1.0,
+        "area_sqft": 740,
+        "latitude": 25.7801,
+        "longitude": -80.271065,
+        "broker_name": "Florida Realty of Miami Corp",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/30c3e898549b4248d73cc02a4e39c4d1-p_e.jpg",
+            "path": "full/70773185.jpg",
+            "checksum": "9722254f415a732e8731ab8dea56333f"
+        }]
+    },
+    {
+        "id": "44186147",
+        "image_urls": ["https://photos.zillowstatic.com/fp/eb6d77d94cfb71e2b643cb9201e032bb-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/5961-SW-17th-St-Miami-FL-33155/44186147_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$475,000",
+        "address": "5961 SW 17th St, Miami, FL 33155",
+        "beds": 2,
+        "baths": 2.0,
+        "area_sqft": 1299,
+        "latitude": 25.755031,
+        "longitude": -80.292618,
+        "broker_name": "One Sotheby's International Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/eb6d77d94cfb71e2b643cb9201e032bb-p_e.jpg",
+            "path": "full/44186147.jpg",
+            "checksum": "c464d0be81fca5a654cdd9bfac932c91"
+        }]
+    },
+    {
+        "id": "92446114",
+        "image_urls": ["https://photos.zillowstatic.com/fp/52a5fcff19a55955e7949a4e21abdbb9-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/300-S-Biscayne-Blvd-T-2802-Miami-FL-33131/92446114_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "Condo for sale",
+        "price": "$560,000",
+        "address": "300 S Biscayne Blvd #T-2802, Miami, FL 33131",
+        "beds": 2,
+        "baths": 2.0,
+        "area_sqft": 1017,
+        "latitude": 25.771225,
+        "longitude": -80.187243,
+        "broker_name": "BHHS EWM Realty",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/52a5fcff19a55955e7949a4e21abdbb9-p_e.jpg",
+            "path": "full/92446114.jpg",
+            "checksum": "47b9cb2db62ee3d29176d17cda44d35c"
+        }]
+    },
+    {
+        "id": "247087263",
+        "image_urls": ["https://photos.zillowstatic.com/fp/449b03bdcd019eb2cf8229635aadde26-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/121-NE-34th-St-L302-Miami-FL-33137/247087263_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "Condo for sale",
+        "price": "$340,000",
+        "address": "121 NE 34th St #L302, Miami, FL 33137",
+        "beds": 1,
+        "baths": 1.0,
+        "area_sqft": 684,
+        "latitude": 25.808713,
+        "longitude": -80.192096,
+        "broker_name": "Avanti Way Realty LLC",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/449b03bdcd019eb2cf8229635aadde26-p_e.jpg",
+            "path": "full/247087263.jpg",
+            "checksum": "b9ea588cdae9cf561c9e2a8896e97cc8"
+        }]
+    },
+    {
+        "id": "44289876",
+        "image_urls": ["https://photos.zillowstatic.com/fp/5a1ec7bd7860b93f2dc6b7091bf27000-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/9700-SW-136th-St-Miami-FL-33176/44289876_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$1,200,000",
+        "address": "9700 SW 136th St, Miami, FL 33176",
+        "beds": 4,
+        "baths": 4.0,
+        "area_sqft": 3169,
+        "latitude": 25.643042,
+        "longitude": -80.350746,
+        "broker_name": "Weichert Realtors -NuStar Asoc",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/5a1ec7bd7860b93f2dc6b7091bf27000-p_e.jpg",
+            "path": "full/44289876.jpg",
+            "checksum": "8b069a331c1f423fd38cd3d779608984"
+        }]
+    },
+    {
+        "id": "44216663",
+        "image_urls": ["https://photos.zillowstatic.com/fp/e3842875565dd514f8b7887ba8848ca6-p_e.jpg"],
+        "detail_url": "https://www.zillow.com/homedetails/11268-SW-73rd-Ter-Miami-FL-33173/44216663_zpid/",
+        "status_type": "FOR_SALE",
+        "status_text": "House for sale",
+        "price": "$479,995",
+        "address": "11268 SW 73rd Ter, Miami, FL 33173",
+        "beds": 3,
+        "baths": 2.0,
+        "area_sqft": 1770,
+        "latitude": 25.69979,
+        "longitude": -80.37427,
+        "broker_name": "The Keyes Company",
+        "images": [{
+            "url": "https://photos.zillowstatic.com/fp/e3842875565dd514f8b7887ba8848ca6-p_e.jpg",
+            "path": "full/44216663.jpg",
+            "checksum": "224f87c31fdd2258c4ac005b5a57748b"
+        }]
+    }
+]
